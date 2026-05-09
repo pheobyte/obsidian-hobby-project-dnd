@@ -8,7 +8,7 @@ import * as Plugin from "./quartz/plugins"
  */
 const config: QuartzConfig = {
   configuration: {
-    pageTitle: "Obsidian Hobby Project D&D",
+    pageTitle: "Quartz 4",
     pageTitleSuffix: "",
     enableSPA: true,
     enablePopovers: true,
@@ -17,36 +17,7 @@ const config: QuartzConfig = {
     },
     locale: "en-US",
     baseUrl: "quartz.jzhao.xyz",
-    ignorePatterns: [
-      // Hide all system/utility folders
-      "__INTEGRITY_CHECKS",
-      "__METADATA_JS_QUERIES",
-      "__SCRIPTS",
-      "__UTILITY",
-      ".obsidian",
-      
-      // Hide the entire TEMPLATES folder and everything inside it
-      "__TEMPLATES", 
-
-      // Hide MetaData folders EXCEPT MetaData_Public
-      "MetaData_PriceHistory",
-      "MetaData_References",
-      "MetaData_Shop",
-      "Attachments", 
-
-      // Hide the "View" files at the root
-      "MetaData_PriceHistory View.md",
-      "MetaData_PriceHistory View Unavailable.md",
-      "MetaData_Shop_Duplicate Spotter.md",
-      "MetaData_Shop_No Image_Icon.md",
-      "MetaData_Shop_NoREF Bought Items.md",
-      "MetaData_Shop Card Bought Items.md",
-      "MetaData_Shop Card View.md",
-      "MetaData_Shop Card View Large.md",
-      "MetaData_Shop Table Bought Items.md",
-      "MetaData_Shop Table View.md",
-      "Reference_Master_Assets.md",
-    ],
+    ignorePatterns: ["private", "templates", ".obsidian"],
     defaultDateType: "modified",
     theme: {
       fontOrigin: "googleFonts",
@@ -102,10 +73,7 @@ const config: QuartzConfig = {
       Plugin.Description(),
       Plugin.Latex({ renderEngine: "katex" }),
     ],
-    filters: [
-      Plugin.RemoveDrafts(),
-     // Plugin.ExplicitPublish(), //IF ADDED: Only notes with "publish: true" will show up
-    ],
+    filters: [Plugin.RemoveDrafts()],
     emitters: [
       Plugin.AliasRedirects(),
       Plugin.ComponentResources(),
@@ -120,6 +88,8 @@ const config: QuartzConfig = {
       Plugin.Static(),
       Plugin.Favicon(),
       Plugin.NotFoundPage(),
+      // Comment out CustomOgImages to speed up build time
+      Plugin.CustomOgImages(),
     ],
   },
 }

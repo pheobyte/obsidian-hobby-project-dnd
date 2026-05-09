@@ -1,5 +1,9 @@
 import { PageLayout, SharedLayout } from "./quartz/cfg"
 import * as Component from "./quartz/components"
+//Custom import here:
+import IdentityTable from "./quartz/components/IdentityTable"
+import PublicAssets from "./quartz/components/PublicAssets"
+import CardGrid from "./quartz/components/CardGrid"
 
 // components shared across all pages
 export const sharedPageComponents: SharedLayout = {
@@ -23,7 +27,23 @@ export const defaultContentPageLayout: PageLayout = {
     }),
     Component.ArticleTitle(),
     Component.ContentMeta(),
-    Component.TagList(),
+    // Component.TagList(),
+    
+    // Show technical details ONLY on individual notes, NOT index
+    Component.ConditionalRender({
+      component: IdentityTable(),
+      condition: (page) => page.fileData.slug !== "index",
+    }),
+    Component.ConditionalRender({
+      component: PublicAssets(),
+      condition: (page) => page.fileData.slug !== "index",
+    }),
+
+    // Show the Card Gallery ONLY on the index page
+    Component.ConditionalRender({
+      component: CardGrid(),
+      condition: (page) => page.fileData.slug === "index",
+    }),
   ],
   left: [
     Component.PageTitle(),
@@ -31,7 +51,26 @@ export const defaultContentPageLayout: PageLayout = {
     Component.Flex({
       components: [
         {
-          Component: Component.Search(),
+          Component: Component.Search({
+            enableCheckboxes: true,
+            search: {
+              includeTags: true,
+              includeFrontmatter: true,
+              frontmatterKeys: [
+                "name", 
+                "race", 
+                "class", 
+                "tags", 
+                "categories", 
+                "weapons", 
+                "other_details"
+              ],
+              flexsearch: {
+                tokenize: "full", // Substring matching enabled
+                incremental: true,
+              },
+            },
+          }),
           grow: true,
         },
         { Component: Component.Darkmode() },
@@ -41,13 +80,13 @@ export const defaultContentPageLayout: PageLayout = {
     Component.Explorer(),
   ],
   right: [
-    Component.Graph(),
+    // Component.Graph(),
     Component.DesktopOnly(Component.TableOfContents()),
-    Component.Backlinks(),
+    // Component.Backlinks(),
   ],
 }
 
-// components for pages that display lists of pages  (e.g. tags or folders)
+// components for pages that display lists of pages (e.g. tags or folders)
 export const defaultListPageLayout: PageLayout = {
   beforeBody: [Component.Breadcrumbs(), Component.ArticleTitle(), Component.ContentMeta()],
   left: [
@@ -56,7 +95,26 @@ export const defaultListPageLayout: PageLayout = {
     Component.Flex({
       components: [
         {
-          Component: Component.Search(),
+          Component: Component.Search({
+            enableCheckboxes: true,
+            search: {
+              includeTags: true,
+              includeFrontmatter: true,
+              frontmatterKeys: [
+                "name", 
+                "race", 
+                "class", 
+                "tags", 
+                "categories", 
+                "weapons", 
+                "other_details"
+              ],
+              flexsearch: {
+                tokenize: "full", // Substring matching enabled
+                incremental: true,
+              },
+            },
+          }),
           grow: true,
         },
         { Component: Component.Darkmode() },
