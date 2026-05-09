@@ -1,0 +1,21 @@
+# --- Standard Quartz Ignores ---
+node_modules
+public
+.quartz-cache
+.obsidian
+tsconfig.tsbuildinfo
+.DS_Store
+prof
+.replit
+replit.nix
+
+# --- Content Filtering ---
+# Ignore everything inside content
+content/*
+
+# Allow the index file
+!content/index.md
+
+# Allow the MetaData_Public folder AND its contents
+!content/MetaData_Public/
+!content/MetaData_Public/**
