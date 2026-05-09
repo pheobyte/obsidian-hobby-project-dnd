@@ -16,7 +16,7 @@ const config: QuartzConfig = {
       provider: "plausible",
     },
     locale: "en-US",
-    baseUrl: "quartz.jzhao.xyz",
+    baseUrl: "pheobyte.github.io/obsidian-hobby-project-dnd",
     ignorePatterns: [
       // Hide all system/utility folders
       "__INTEGRITY_CHECKS",

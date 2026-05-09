@@ -12,6 +12,7 @@ replit.nix
 # --- Content Filtering ---
 # Ignore everything inside content
 content/*
+content_backup/*
 
 # Allow the index file
 !content/index.md
