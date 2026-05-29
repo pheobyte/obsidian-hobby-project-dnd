@@ -16,12 +16,11 @@ weapons:
   - No_weapon
 other_details: []
 official_gallery:
-  - https://www.dropbox.com/scl/fi/g06nbiht1y57l012s8d7k/d3844754a2c0d31a6d61929be27d57e5_MD5.avif?rlkey=bxtrzu958k27a6un6kq1ik1qh&raw=1
+  - /MetaData_Shop/_resources/601099676085316/d3844754a2c0d31a6d61929be27d57e5_MD5.avif
 personal_gallery:
-  - https://www.dropbox.com/scl/fi/1ccac1yee7v2c90ywxs02/20260410_134724.jpg?rlkey=7amf4ji4qi8j5fcf212d9ixv5&raw=1
-  - https://www.dropbox.com/scl/fi/fsvwio0rdpk2tb87uzsd6/20260410_134739.jpg?rlkey=7h5607ifamdw3dfjyqtmct53a&raw=1
-PUB_IMG_Icon: https://www.dropbox.com/scl/fi/g06nbiht1y57l012s8d7k/d3844754a2c0d31a6d61929be27d57e5_MD5.avif?rlkey=bxtrzu958k27a6un6kq1ik1qh&raw=1
-last_sync: 5/9/2026, 5:21:02 PM
+  - /Attachments/Miniatures_Gallery/601099676085316/20260526_171038.webp
+PUB_IMG_Icon: /MetaData_Shop/_resources/601099676085316/d3844754a2c0d31a6d61929be27d57e5_MD5.avif
+last_sync: 5/29/2026, 8:56:35 PM
 ---
 
 <div class="quartz-hidden">

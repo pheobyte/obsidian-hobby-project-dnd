@@ -18,12 +18,13 @@ weapons:
   - Sword
 other_details: []
 official_gallery:
-  - https://www.dropbox.com/scl/fi/vah0zoxi54r0d43r27pwk/be1c225851aae04a15dbdf68752e0632_MD5.avif?rlkey=4ofbhxvha21wi4tcernfrfwxf&raw=1
+  - /MetaData_Shop/_resources/601105795291624/be1c225851aae04a15dbdf68752e0632_MD5.avif
+  - /MetaData_Shop/_resources/605546967064221/992194a541199c2c1ad32875787a2111_MD5.avif
 personal_gallery:
-  - https://www.dropbox.com/scl/fi/0m2t9z5373ukn3zjjvlsy/20260429_113530.jpg?rlkey=mofzegbp5kfi3t7fwceff7q5b&raw=1
-  - https://www.dropbox.com/scl/fi/t967kse09ty5x9yonrk5v/20260429_113558.jpg?rlkey=hssmk775rtvwvdr24qxb8gky2&raw=1
-PUB_IMG_Icon: https://www.dropbox.com/scl/fi/vah0zoxi54r0d43r27pwk/be1c225851aae04a15dbdf68752e0632_MD5.avif?rlkey=4ofbhxvha21wi4tcernfrfwxf&raw=1
-last_sync: 5/9/2026, 5:21:11 PM
+  - /Attachments/Miniatures_Gallery/601105795291624/20260429_113530.webp
+  - /Attachments/Miniatures_Gallery/601105795291624/20260429_113558.webp
+PUB_IMG_Icon: /MetaData_Shop/_resources/601105795291624/be1c225851aae04a15dbdf68752e0632_MD5.avif
+last_sync: 5/29/2026, 8:56:41 PM
 ---
 
 <div class="quartz-hidden">

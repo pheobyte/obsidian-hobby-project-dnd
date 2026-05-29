@@ -9,6 +9,7 @@ tags:
 is_set: false
 is_nsfw: false
 sizes:
+  - 30 - 40 mm
   - 40 - 50 mm
 categories:
   - Humanoid
@@ -16,12 +17,14 @@ weapons:
   - Scythe
 other_details: []
 official_gallery:
-  - https://www.dropbox.com/scl/fi/suvu5vcqzfqyv086y4lbw/578b7c9b4e6fd43a555129f436590cba_MD5.avif?rlkey=vs6gwqgmp5eev6szelog2daum&raw=1
-  - https://www.dropbox.com/scl/fi/h78hgu2y2ye4qazggi7qq/85c0101aa3e77b6b9e27461859318972_MD5.jpg?rlkey=ncjh1gs5aydoqctf7206cmwoe&raw=1
+  - /MetaData_Shop/_resources/1668660122/450b2759cb333288334f5c03bba9b587_MD5.webp
+  - /MetaData_Shop/_resources/601102365735910/578b7c9b4e6fd43a555129f436590cba_MD5.avif
+  - /MetaData_Shop/_resources/601105262996658/85c0101aa3e77b6b9e27461859318972_MD5.webp
+  - /MetaData_Shop/_resources/605947288193867/79973641c8c962bca0365dce2da89573_MD5.avif
 personal_gallery:
-  - https://www.dropbox.com/scl/fi/p3vg2iyo5c90z2o082b9y/20260505_112512.jpg?rlkey=qusx50f9mldfxeos1oeg8jjcy&raw=1
-PUB_IMG_Icon: https://www.dropbox.com/scl/fi/suvu5vcqzfqyv086y4lbw/578b7c9b4e6fd43a555129f436590cba_MD5.avif?rlkey=vs6gwqgmp5eev6szelog2daum&raw=1
-last_sync: 5/9/2026, 5:20:17 PM
+  - /Attachments/Miniatures_Gallery/601105262996658/20260505_112512.webp
+PUB_IMG_Icon: /MetaData_Shop/_resources/1668660122/450b2759cb333288334f5c03bba9b587_MD5.webp
+last_sync: 5/29/2026, 8:56:06 PM
 ---
 
 <div class="quartz-hidden">

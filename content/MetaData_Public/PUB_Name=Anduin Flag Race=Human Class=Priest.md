@@ -20,11 +20,11 @@ weapons:
   - Other
 other_details: []
 official_gallery:
-  - https://www.dropbox.com/scl/fi/h20u8l7jun57jk3fpzght/776999212448d13ec6d20ea7450120b6_MD5.avif?rlkey=xd6z2b5jjq8u1ce6tlwvcokqu&raw=1
+  - /MetaData_Shop/_resources/601101808293636/776999212448d13ec6d20ea7450120b6_MD5.avif
 personal_gallery:
-  - https://www.dropbox.com/scl/fi/u0i6fz0dldzl4aq29k71d/20260408_123309.jpg?rlkey=5zol0dlc3e5sbzzb9h7mgs3qi&raw=1
-PUB_IMG_Icon: https://www.dropbox.com/scl/fi/h20u8l7jun57jk3fpzght/776999212448d13ec6d20ea7450120b6_MD5.avif?rlkey=xd6z2b5jjq8u1ce6tlwvcokqu&raw=1
-last_sync: 5/9/2026, 5:20:04 PM
+  - /Attachments/Miniatures_Gallery/601101808293636/20260408_123309.webp
+PUB_IMG_Icon: /MetaData_Shop/_resources/601101808293636/776999212448d13ec6d20ea7450120b6_MD5.avif
+last_sync: 5/29/2026, 8:55:56 PM
 ---
 
 <div class="quartz-hidden">

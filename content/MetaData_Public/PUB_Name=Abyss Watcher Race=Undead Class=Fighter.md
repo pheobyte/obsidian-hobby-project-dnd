@@ -19,11 +19,16 @@ weapons:
   - Dagger
 other_details: []
 official_gallery:
-  - https://www.dropbox.com/scl/fi/av7hujvbqb64z1zasttl6/d5013d270a062094bf730ce23953765d_MD5.avif?rlkey=avlkt3mda98ieghq4uiczx7q9&raw=1
+  - /MetaData_Shop/_resources/605866086470474/d5013d270a062094bf730ce23953765d_MD5.avif
+  - /MetaData_Shop/_resources/605901436098572/ef667589f8eb118436231df61d44bf97_MD5.avif
 personal_gallery:
-  - https://www.dropbox.com/scl/fi/wualp1sdzip1sfnxh9t00/20260508_112048.jpg?rlkey=80524c53y96agr8nkyrgka26o&raw=1
-PUB_IMG_Icon: https://www.dropbox.com/scl/fi/av7hujvbqb64z1zasttl6/d5013d270a062094bf730ce23953765d_MD5.avif?rlkey=avlkt3mda98ieghq4uiczx7q9&raw=1
-last_sync: 5/9/2026, 5:19:33 PM
+  - /Attachments/Miniatures_Gallery/605866086470474/20260508_112048.webp
+  - /Attachments/Miniatures_Gallery/605866086470474/20260526_171151.webp
+  - /Attachments/Miniatures_Gallery/605866086470474/20260526_171118.webp
+  - /Attachments/Miniatures_Gallery/605866086470474/20260526_171127.webp
+  - /Attachments/Miniatures_Gallery/605866086470474/20260526_171139.webp
+PUB_IMG_Icon: /MetaData_Shop/_resources/605866086470474/d5013d270a062094bf730ce23953765d_MD5.avif
+last_sync: 5/29/2026, 8:55:54 PM
 ---
 
 <div class="quartz-hidden">

@@ -19,12 +19,12 @@ weapons:
   - Musical Instrument
 other_details: []
 official_gallery:
-  - https://www.dropbox.com/scl/fi/hv706pemh415ryoy1d0ay/26a111668921cd4496ed61141d0d63b2_MD5.jpg?rlkey=gtok9afv50v0d6b7cq78t3srw&raw=1
+  - /MetaData_Shop/_resources/606420338598082/26a111668921cd4496ed61141d0d63b2_MD5.webp
 personal_gallery:
-  - https://www.dropbox.com/scl/fi/fohwc5fd4pvjr7ii05fzp/20260409_154404.jpg?rlkey=pw0ppedm0wsr04zvf11pkirf5&raw=1
-  - https://www.dropbox.com/scl/fi/3kp350hmdf3747fssl50o/20260409_154427.jpg?rlkey=8ow8lo6m5agkcf5fsnav9rx1a&raw=1
-PUB_IMG_Icon: https://www.dropbox.com/scl/fi/hv706pemh415ryoy1d0ay/26a111668921cd4496ed61141d0d63b2_MD5.jpg?rlkey=gtok9afv50v0d6b7cq78t3srw&raw=1
-last_sync: 5/9/2026, 5:20:53 PM
+  - /Attachments/Miniatures_Gallery/606420338598082/20260409_154404.webp
+  - /Attachments/Miniatures_Gallery/606420338598082/20260409_154427.webp
+PUB_IMG_Icon: /MetaData_Shop/_resources/606420338598082/26a111668921cd4496ed61141d0d63b2_MD5.webp
+last_sync: 5/29/2026, 8:56:30 PM
 ---
 
 <div class="quartz-hidden">

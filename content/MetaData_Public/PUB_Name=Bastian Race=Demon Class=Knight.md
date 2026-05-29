@@ -22,19 +22,20 @@ weapons:
   - Staff
 other_details: []
 official_gallery:
-  - https://www.dropbox.com/scl/fi/fpw441ouw8ff0kie0x8zw/b2e2461b222657d773cbc9da5cecffdb_MD5.jpg?rlkey=w8nhlys201q2ifsu6j5pdu6nz&raw=1
-  - https://www.dropbox.com/scl/fi/9b5cj6vtowsuhgq1i51xr/b6b194dba6ce5b680ccf9cbfa5dce562_MD5.jpg?rlkey=3bc8i8d0pdnfldd2zpi7th5u3&raw=1
-  - https://www.dropbox.com/scl/fi/u9umlbldajqsmvensap04/cb60253036f3d20b380e2f167534a9ef_MD5.avif?rlkey=y47pvs81sq9ihqqr2kk49wr1u&raw=1
-  - https://www.dropbox.com/scl/fi/d97wa9535q90kneqm6bvk/88ce5d5fcb246094ea404b889da51f99_MD5.avif?rlkey=w0p1d53av7ae167hcr5nlh43v&raw=1
-  - https://www.dropbox.com/scl/fi/9uaxs8wokyfdv4xzy0o53/3d4935ae05df300d541f5d97b9eb211e_MD5.avif?rlkey=2ci2wk2lyirljryo5p5c435cb&raw=1
-  - https://www.dropbox.com/scl/fi/i52xnm3jgwgwpgimfww6l/bfe04cb7cfe1769ec74f506161bcbb95_MD5.avif?rlkey=i9z613e0n9rbaxql4twt9sex8&raw=1
-  - https://www.dropbox.com/scl/fi/34jocw0qjcfwmucnmheov/fcc6c96d463e947abf3cf06f01185204_MD5.avif?rlkey=2w1epmlrue2smbwmvfb2decy0&raw=1
-  - https://www.dropbox.com/scl/fi/d01t60p2vbdw3wrz7dsrm/f6ec46cd7e1acc6530b79dd62cc8ce14_MD5.avif?rlkey=dmwceepv6noxqzc3a5b254oxd&raw=1
+  - /MetaData_Shop/_resources/1733534926/b2e2461b222657d773cbc9da5cecffdb_MD5.webp
+  - /MetaData_Shop/_resources/1740681925/b6b194dba6ce5b680ccf9cbfa5dce562_MD5.webp
+  - /MetaData_Shop/_resources/4330129698/1aa7d3826822875f951f2741bcc72b13_MD5.webp
+  - /MetaData_Shop/_resources/605786696697644/cb60253036f3d20b380e2f167534a9ef_MD5.avif
+  - /MetaData_Shop/_resources/605964535226933/88ce5d5fcb246094ea404b889da51f99_MD5.avif
+  - /MetaData_Shop/_resources/606035939041128/3d4935ae05df300d541f5d97b9eb211e_MD5.avif
+  - /MetaData_Shop/_resources/606042717028346/bfe04cb7cfe1769ec74f506161bcbb95_MD5.avif
+  - /MetaData_Shop/_resources/606090901214612/fcc6c96d463e947abf3cf06f01185204_MD5.avif
+  - /MetaData_Shop/_resources/606503352264398/f6ec46cd7e1acc6530b79dd62cc8ce14_MD5.avif
 personal_gallery:
-  - https://www.dropbox.com/scl/fi/u64s11fqkxad1q453gcpy/20260408_120337.jpg?rlkey=fram306xgn9g37jk6282tb1lt&raw=1
-  - https://www.dropbox.com/scl/fi/ssyibvd4w6nsaekp3sttq/20260408_120416.jpg?rlkey=hdag3wh6enytyeberhbe8sllq&raw=1
-PUB_IMG_Icon: https://www.dropbox.com/scl/fi/fpw441ouw8ff0kie0x8zw/b2e2461b222657d773cbc9da5cecffdb_MD5.jpg?rlkey=w8nhlys201q2ifsu6j5pdu6nz&raw=1
-last_sync: 5/9/2026, 5:20:10 PM
+  - /Attachments/Miniatures_Gallery/606090901214612/20260408_120337.webp
+  - /Attachments/Miniatures_Gallery/606090901214612/20260408_120416.webp
+PUB_IMG_Icon: /MetaData_Shop/_resources/1733534926/b2e2461b222657d773cbc9da5cecffdb_MD5.webp
+last_sync: 5/29/2026, 8:55:59 PM
 ---
 
 <div class="quartz-hidden">

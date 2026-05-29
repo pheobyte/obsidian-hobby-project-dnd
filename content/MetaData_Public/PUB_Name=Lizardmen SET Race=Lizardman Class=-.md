@@ -20,11 +20,14 @@ weapons:
   - Crossbow
 other_details: []
 official_gallery:
-  - https://www.dropbox.com/scl/fi/i891dj9xicaoztphm9jw1/3ca9cf43db7d1160de2d6fc0d110ae62_MD5.avif?rlkey=djen8fd70c2wi3k5aee05ofyh&raw=1
+  - /MetaData_Shop/_resources/606366047542718/3ca9cf43db7d1160de2d6fc0d110ae62_MD5.avif
 personal_gallery:
-  - https://www.dropbox.com/scl/fi/jxa3p6v2tcwyh6tgxqsl2/20260408_112814.jpg?rlkey=52lw09bvsznsaq9dia3ksxch4&raw=1
-PUB_IMG_Icon: https://www.dropbox.com/scl/fi/i891dj9xicaoztphm9jw1/3ca9cf43db7d1160de2d6fc0d110ae62_MD5.avif?rlkey=djen8fd70c2wi3k5aee05ofyh&raw=1
-last_sync: 5/9/2026, 5:20:41 PM
+  - /Attachments/Miniatures_Gallery/606366047542718/20260408_112814.webp
+  - /Attachments/Miniatures_Gallery/606366047542718/20260526_162511.webp
+  - /Attachments/Miniatures_Gallery/606366047542718/20260526_162349.webp
+  - /Attachments/Miniatures_Gallery/606366047542718/20260526_162419.webp
+PUB_IMG_Icon: /MetaData_Shop/_resources/606366047542718/3ca9cf43db7d1160de2d6fc0d110ae62_MD5.avif
+last_sync: 5/29/2026, 8:56:24 PM
 ---
 
 <div class="quartz-hidden">

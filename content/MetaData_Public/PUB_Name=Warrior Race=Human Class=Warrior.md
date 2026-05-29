@@ -16,11 +16,11 @@ weapons:
   - Sword
 other_details: []
 official_gallery:
-  - https://www.dropbox.com/scl/fi/njr3okaukjyxqqac22ep0/5fc17caa379b918d0e9a2f38361cc83f_MD5.avif?rlkey=45whfgzeqx9kqety1md1wmz2o&raw=1
+  - /MetaData_Shop/_resources/606191698713000/5fc17caa379b918d0e9a2f38361cc83f_MD5.avif
 personal_gallery:
-  - https://www.dropbox.com/scl/fi/8ahgyt0kacbsioax20zaq/20260429_103137.jpg?rlkey=ugegjhvh4axmasiplosaahr28&raw=1
-PUB_IMG_Icon: https://www.dropbox.com/scl/fi/njr3okaukjyxqqac22ep0/5fc17caa379b918d0e9a2f38361cc83f_MD5.avif?rlkey=45whfgzeqx9kqety1md1wmz2o&raw=1
-last_sync: 5/9/2026, 5:21:31 PM
+  - /Attachments/Miniatures_Gallery/606191698713000/20260429_103137.webp
+PUB_IMG_Icon: /MetaData_Shop/_resources/606191698713000/5fc17caa379b918d0e9a2f38361cc83f_MD5.avif
+last_sync: 5/29/2026, 8:56:51 PM
 ---
 
 <div class="quartz-hidden">

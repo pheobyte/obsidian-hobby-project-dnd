@@ -1,5 +1,5 @@
 ---
-qty: 1
+qty: 3
 name: Name=Imp Race=Demon Class=-
 race: Demon
 class: "-"
@@ -14,15 +14,18 @@ sizes:
 categories:
   - Demon
 weapons:
-  - No_weapon
+  - Other
 other_details: []
 official_gallery:
-  - https://www.dropbox.com/scl/fi/1ou79ackkwohqgm1tn92h/d660a76f2df71fa5b3df3462a17ec283_MD5.avif?rlkey=3z168ya1jhmn8y7zexw4p6o32&raw=1
+  - /MetaData_Shop/_resources/601104895560637/d660a76f2df71fa5b3df3462a17ec283_MD5.avif
 personal_gallery:
-  - https://www.dropbox.com/scl/fi/aosd6ck5oo8a9sez6ldsu/20260424_093823.jpg?rlkey=2g38cm6ltjz0a5igsc8q42hur&raw=1
-  - https://www.dropbox.com/scl/fi/rdbytj7nbgwfrn6za65ws/20260424_093842.jpg?rlkey=oth8wkbajrn479axonpjqbhmd&raw=1
-PUB_IMG_Icon: https://www.dropbox.com/scl/fi/1ou79ackkwohqgm1tn92h/d660a76f2df71fa5b3df3462a17ec283_MD5.avif?rlkey=3z168ya1jhmn8y7zexw4p6o32&raw=1
-last_sync: 5/9/2026, 5:20:32 PM
+  - /Attachments/Miniatures_Gallery/601104895560637/20260424_093823.webp
+  - /Attachments/Miniatures_Gallery/601104895560637/20260424_093842.webp
+  - /Attachments/Miniatures_Gallery/601104895560637/20260516_124840.webp
+  - /Attachments/Miniatures_Gallery/601104895560637/20260516_124830.webp
+  - /Attachments/Miniatures_Gallery/601104895560637/20260528_121706.webp
+PUB_IMG_Icon: /MetaData_Shop/_resources/601104895560637/d660a76f2df71fa5b3df3462a17ec283_MD5.avif
+last_sync: 5/29/2026, 8:56:21 PM
 ---
 
 <div class="quartz-hidden">

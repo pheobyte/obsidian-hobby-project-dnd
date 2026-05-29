@@ -16,12 +16,12 @@ weapons:
   - Axe
 other_details: []
 official_gallery:
-  - https://www.dropbox.com/scl/fi/v3zydukgmr1lv7f1h2tf8/1721015fc018e4037091ff055f231279_MD5.avif?rlkey=pjdfk2bxx0n2r1dy57b5i6b2a&raw=1
+  - /MetaData_Shop/_resources/601104950846014/1721015fc018e4037091ff055f231279_MD5.avif
 personal_gallery:
-  - https://www.dropbox.com/scl/fi/g0v0x3pcu9m44zrl1kbs2/20260505_095637.jpg?rlkey=lg1rnr17lwsgt8jwuxfuomk46&raw=1
-  - https://www.dropbox.com/scl/fi/ujddrc61twm3r2149ekoy/20260505_095806.jpg?rlkey=mqrb213fpc0672aphz8hm38t0&raw=1
-PUB_IMG_Icon: https://www.dropbox.com/scl/fi/v3zydukgmr1lv7f1h2tf8/1721015fc018e4037091ff055f231279_MD5.avif?rlkey=pjdfk2bxx0n2r1dy57b5i6b2a&raw=1
-last_sync: 5/9/2026, 5:20:08 PM
+  - /Attachments/Miniatures_Gallery/601104950846014/20260505_095637.webp
+  - /Attachments/Miniatures_Gallery/601104950846014/20260505_095806.webp
+PUB_IMG_Icon: /MetaData_Shop/_resources/601104950846014/1721015fc018e4037091ff055f231279_MD5.avif
+last_sync: 5/29/2026, 8:55:59 PM
 ---
 
 <div class="quartz-hidden">

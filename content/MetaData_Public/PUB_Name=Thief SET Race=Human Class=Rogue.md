@@ -19,11 +19,17 @@ weapons:
   - Crossbow
 other_details: []
 official_gallery:
-  - https://www.dropbox.com/scl/fi/82c3c93dee21rzockdan9/89d83ebfbc99b557a11d05c8455cebc7_MD5.avif?rlkey=lahurxt79sbci2l4cjnvdp9yf&raw=1
+  - /MetaData_Shop/_resources/601103666256457/89d83ebfbc99b557a11d05c8455cebc7_MD5.avif
 personal_gallery:
-  - https://www.dropbox.com/scl/fi/f0ccfyl6r9lj4gg9khyx2/20260326_110715.jpg?rlkey=56ttlafjy0qp6m5as0bd8s0qy&raw=1
-PUB_IMG_Icon: https://www.dropbox.com/scl/fi/82c3c93dee21rzockdan9/89d83ebfbc99b557a11d05c8455cebc7_MD5.avif?rlkey=lahurxt79sbci2l4cjnvdp9yf&raw=1
-last_sync: 5/9/2026, 5:21:17 PM
+  - /Attachments/Miniatures_Gallery/601103666256457/20260326_110715.webp
+  - /Attachments/Miniatures_Gallery/601103666256457/20260526_155237.webp
+  - /Attachments/Miniatures_Gallery/601103666256457/20260526_155222.webp
+  - /Attachments/Miniatures_Gallery/601103666256457/20260526_155256.webp
+  - /Attachments/Miniatures_Gallery/601103666256457/20260526_155354.webp
+  - /Attachments/Miniatures_Gallery/601103666256457/20260526_155311.webp
+  - /Attachments/Miniatures_Gallery/601103666256457/20260526_155328.webp
+PUB_IMG_Icon: /MetaData_Shop/_resources/601103666256457/89d83ebfbc99b557a11d05c8455cebc7_MD5.avif
+last_sync: 5/29/2026, 8:56:45 PM
 ---
 
 <div class="quartz-hidden">

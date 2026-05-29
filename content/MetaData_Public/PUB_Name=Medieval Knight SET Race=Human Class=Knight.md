@@ -17,11 +17,17 @@ weapons:
   - Axe
 other_details: []
 official_gallery:
-  - https://www.dropbox.com/scl/fi/b1rpby69vjthspzm3pg1f/20fe8269c754877b2df20444b1acbf2d_MD5.avif?rlkey=pa7r4jp0toudsvv28zha4alc6&raw=1
+  - /MetaData_Shop/_resources/601105764628264/20fe8269c754877b2df20444b1acbf2d_MD5.avif
 personal_gallery:
-  - https://www.dropbox.com/scl/fi/5n7y8l05m7ajguk9oyxkr/20260325_142129.jpg?rlkey=yytl7p3gyllpmc16wp6jfe6f8&raw=1
-PUB_IMG_Icon: https://www.dropbox.com/scl/fi/b1rpby69vjthspzm3pg1f/20fe8269c754877b2df20444b1acbf2d_MD5.avif?rlkey=pa7r4jp0toudsvv28zha4alc6&raw=1
-last_sync: 5/9/2026, 5:20:47 PM
+  - /Attachments/Miniatures_Gallery/601105764628264/20260325_142129.webp
+  - /Attachments/Miniatures_Gallery/601105764628264/20260526_154943.webp
+  - /Attachments/Miniatures_Gallery/601105764628264/20260526_154824.webp
+  - /Attachments/Miniatures_Gallery/601105764628264/20260526_154837.webp
+  - /Attachments/Miniatures_Gallery/601105764628264/20260526_154901.webp
+  - /Attachments/Miniatures_Gallery/601105764628264/20260526_154920.webp
+  - /Attachments/Miniatures_Gallery/601105764628264/20260526_154931.webp
+PUB_IMG_Icon: /MetaData_Shop/_resources/601105764628264/20fe8269c754877b2df20444b1acbf2d_MD5.avif
+last_sync: 5/29/2026, 8:56:28 PM
 ---
 
 <div class="quartz-hidden">

@@ -16,36 +16,17 @@ const config: QuartzConfig = {
       provider: "plausible",
     },
     locale: "en-US",
-    baseUrl: "pheobyte.github.io/obsidian-hobby-project-dnd",
+	// DEPLOY
+	 baseUrl: "pheobyte.github.io/obsidian-hobby-project-dnd",  
+    // LOCAL TESTING
+    // baseUrl: "localhost:8080",
     ignorePatterns: [
-      // Hide all system/utility folders
-      "__INTEGRITY_CHECKS",
-      "__METADATA_JS_QUERIES",
-      "__SCRIPTS",
-      "__UTILITY",
-      ".obsidian",
-      
-      // Hide the entire TEMPLATES folder and everything inside it
-      "__TEMPLATES", 
-
-      // Hide MetaData folders EXCEPT MetaData_Public
-      "MetaData_PriceHistory",
-      "MetaData_References",
-      "MetaData_Shop",
-      "Attachments", 
-
-      // Hide the "View" files at the root
-      "MetaData_PriceHistory View.md",
-      "MetaData_PriceHistory View Unavailable.md",
-      "MetaData_Shop_Duplicate Spotter.md",
-      "MetaData_Shop_No Image_Icon.md",
-      "MetaData_Shop_NoREF Bought Items.md",
-      "MetaData_Shop Card Bought Items.md",
-      "MetaData_Shop Card View.md",
-      "MetaData_Shop Card View Large.md",
-      "MetaData_Shop Table Bought Items.md",
-      "MetaData_Shop Table View.md",
-      "Reference_Master_Assets.md",
+		".obsidian",
+		"__INTEGRITY_CHECKS",
+		"__METADATA_JS_QUERIES",
+		"__SCRIPTS",
+		"__UTILITY",
+		"__TEMPLATES",
     ],
     defaultDateType: "modified",
     theme: {
@@ -98,7 +79,10 @@ const config: QuartzConfig = {
       Plugin.ObsidianFlavoredMarkdown({ enableInHtmlEmbed: false }),
       Plugin.GitHubFlavoredMarkdown(),
       Plugin.TableOfContents(),
-      Plugin.CrawlLinks({ markdownLinkResolution: "shortest" }),
+      Plugin.CrawlLinks({ 
+		markdownLinkResolution: "shortest", 
+	//	lazyLoad: false
+		}),
       Plugin.Description(),
       Plugin.Latex({ renderEngine: "katex" }),
     ],
@@ -106,21 +90,22 @@ const config: QuartzConfig = {
       Plugin.RemoveDrafts(),
      // Plugin.ExplicitPublish(), //IF ADDED: Only notes with "publish: true" will show up
     ],
-    emitters: [
-      Plugin.AliasRedirects(),
-      Plugin.ComponentResources(),
-      Plugin.ContentPage(),
-      Plugin.FolderPage(),
-      Plugin.TagPage(),
-      Plugin.ContentIndex({
-        enableSiteMap: true,
-        enableRSS: true,
-      }),
-      Plugin.Assets(),
-      Plugin.Static(),
-      Plugin.Favicon(),
-      Plugin.NotFoundPage(),
-    ],
+	
+emitters: [
+  Plugin.AliasRedirects(),
+  Plugin.ComponentResources(),
+  Plugin.ContentPage(),
+  Plugin.FolderPage(),
+  Plugin.TagPage(),
+  Plugin.ContentIndex({
+    enableSiteMap: true,
+    enableRSS: true,
+  }),
+  Plugin.Assets({ renderAssets: true }),
+  Plugin.Static(),
+  Plugin.Favicon(),
+  Plugin.NotFoundPage(),
+],
   },
 }
 

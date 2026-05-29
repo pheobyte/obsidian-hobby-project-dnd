@@ -11,6 +11,7 @@ is_set: false
 is_nsfw: false
 sizes:
   - 40 - 50 mm
+  - 50 - 60 mm
 categories:
   - Humanoid
 weapons:
@@ -18,11 +19,13 @@ weapons:
   - Shield
 other_details: []
 official_gallery:
-  - https://www.dropbox.com/scl/fi/57b6vhz5f5mrcbdfhluh3/d16942cfdafd23da382925e28349df19_MD5.avif?rlkey=si8ob2ynex57fejz3radlkifx&raw=1
+  - /MetaData_Shop/_resources/601101160276778/d16942cfdafd23da382925e28349df19_MD5.avif
+  - /MetaData_Shop/_resources/601103257766891/bb00b9d7a92d69f0973f862e5033c17e_MD5.avif
+  - /MetaData_Shop/_resources/606470921916410/af7124f5283f413dfe55c2e17e9b8b6c_MD5.avif
 personal_gallery:
-  - https://www.dropbox.com/scl/fi/uksyswd99bvp97zv6espc/20260325_142647.jpg?rlkey=blyqa2fzn5p88zhfmb9hho6pc&raw=1
-PUB_IMG_Icon: https://www.dropbox.com/scl/fi/57b6vhz5f5mrcbdfhluh3/d16942cfdafd23da382925e28349df19_MD5.avif?rlkey=si8ob2ynex57fejz3radlkifx&raw=1
-last_sync: 5/9/2026, 5:20:40 PM
+  - /Attachments/Miniatures_Gallery/601101160276778/20260325_142647.webp
+PUB_IMG_Icon: /MetaData_Shop/_resources/601101160276778/d16942cfdafd23da382925e28349df19_MD5.avif
+last_sync: 5/29/2026, 8:56:25 PM
 ---
 
 <div class="quartz-hidden">

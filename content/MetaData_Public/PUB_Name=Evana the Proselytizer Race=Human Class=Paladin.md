@@ -1,0 +1,41 @@
+---
+qty: 1
+name: Name=Evana the Proselytizer Race=Human Class=Paladin
+race: Human
+class: Paladin
+tags:
+  - female
+  - Evana
+  - Paladin
+  - Knight
+  - Cleric
+is_set: false
+is_nsfw: false
+sizes:
+  - under 30 mm
+  - 30 - 40 mm
+categories:
+  - Humanoid
+weapons:
+  - Sword
+  - Spear
+  - Staff
+other_details: []
+official_gallery:
+  - /MetaData_Shop/_resources/1896852657/22c3568ab8d2774e3f3d2bdf53bfc4cc_MD5.webp
+  - /MetaData_Shop/_resources/1899940475/4eff3807483d000fbf5ab1496e9e98cb_MD5.webp
+  - /MetaData_Shop/_resources/4294976085/4f7a68e8b0ba55f4beca9412e516c3a2_MD5.webp
+  - /MetaData_Shop/_resources/4322919856/27ab5d54e5ad093cb8d73ad14bd60672_MD5.webp
+personal_gallery:
+  - /Attachments/Miniatures_Gallery/4322919856/20260526_170932.webp
+PUB_IMG_Icon: /MetaData_Shop/_resources/1896852657/22c3568ab8d2774e3f3d2bdf53bfc4cc_MD5.webp
+last_sync: 5/29/2026, 8:56:13 PM
+---
+
+<div class="quartz-hidden">
+
+# Public Reference Assets
+
+![[Public Reference Assets]]
+
+</div>

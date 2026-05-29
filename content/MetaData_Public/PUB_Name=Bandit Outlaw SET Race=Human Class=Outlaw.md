@@ -19,11 +19,14 @@ weapons:
   - Mace
 other_details: []
 official_gallery:
-  - https://www.dropbox.com/scl/fi/gv2u8ad8sxdbuzunwsqo4/57ba5d6adda1ccc6bd3d76633b226201_MD5.jpg?rlkey=x7vg0vsmblf7hwbdrn7kpe9xv&raw=1
+  - /MetaData_Shop/_resources/606255636685129/57ba5d6adda1ccc6bd3d76633b226201_MD5.webp
 personal_gallery:
-  - https://www.dropbox.com/scl/fi/inivfqcp3ziyrwrjmxpf5/20260505_100842.jpg?rlkey=qotxe9bi2m7ml0s6x6buotgdd&raw=1
-PUB_IMG_Icon: https://www.dropbox.com/scl/fi/gv2u8ad8sxdbuzunwsqo4/57ba5d6adda1ccc6bd3d76633b226201_MD5.jpg?rlkey=x7vg0vsmblf7hwbdrn7kpe9xv&raw=1
-last_sync: 5/9/2026, 5:20:09 PM
+  - /Attachments/Miniatures_Gallery/606255636685129/20260505_100842.webp
+  - /Attachments/Miniatures_Gallery/606255636685129/20260526_164227.webp
+  - /Attachments/Miniatures_Gallery/606255636685129/20260526_164203.webp
+  - /Attachments/Miniatures_Gallery/606255636685129/20260526_164218.webp
+PUB_IMG_Icon: /MetaData_Shop/_resources/606255636685129/57ba5d6adda1ccc6bd3d76633b226201_MD5.webp
+last_sync: 5/29/2026, 8:55:59 PM
 ---
 
 <div class="quartz-hidden">

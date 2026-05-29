@@ -20,12 +20,12 @@ weapons:
   - Bow
 other_details: []
 official_gallery:
-  - https://www.dropbox.com/scl/fi/w175nduytgr9yj3dzbxqy/887e9639647504f28ad2777b10a88bd5_MD5.avif?rlkey=r1lnxm8i4vxopz2if77tgkdq8&raw=1
+  - /MetaData_Shop/_resources/605953797799327/887e9639647504f28ad2777b10a88bd5_MD5.avif
 personal_gallery:
-  - https://www.dropbox.com/scl/fi/jkjilx2k95h9ctq6vwl85/20260408_125652.jpg?rlkey=nlrbfhx4jeufxuk6eonc4vtdv&raw=1
-  - https://www.dropbox.com/scl/fi/aie2tfnpr0ri9o2qp1ucp/20260408_125721.jpg?rlkey=jbgj4vivx5z68wfdwdubyu9bm&raw=1
-PUB_IMG_Icon: https://www.dropbox.com/scl/fi/w175nduytgr9yj3dzbxqy/887e9639647504f28ad2777b10a88bd5_MD5.avif?rlkey=r1lnxm8i4vxopz2if77tgkdq8&raw=1
-last_sync: 5/9/2026, 5:20:04 PM
+  - /Attachments/Miniatures_Gallery/605953797799327/20260408_125652.webp
+  - /Attachments/Miniatures_Gallery/605953797799327/20260408_125721.webp
+PUB_IMG_Icon: /MetaData_Shop/_resources/605953797799327/887e9639647504f28ad2777b10a88bd5_MD5.avif
+last_sync: 5/29/2026, 8:55:55 PM
 ---
 
 <div class="quartz-hidden">

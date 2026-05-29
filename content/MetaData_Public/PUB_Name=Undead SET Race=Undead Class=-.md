@@ -18,11 +18,15 @@ weapons:
   - Dagger
 other_details: []
 official_gallery:
-  - https://www.dropbox.com/scl/fi/5tg8pbo2y3abmyk0i1zc2/7872929e863a3f9d69606a4dd0a56732_MD5.avif?rlkey=xizlzorxqxqsfqg1wep3s0qzt&raw=1
+  - /MetaData_Shop/_resources/606310951175249/7872929e863a3f9d69606a4dd0a56732_MD5.avif
 personal_gallery:
-  - https://www.dropbox.com/scl/fi/jlesj6l0k2fkgt4amib93/20260325_115605.jpg?rlkey=1gmw15k8k93a4n0jceve3frjd&raw=1
-PUB_IMG_Icon: https://www.dropbox.com/scl/fi/5tg8pbo2y3abmyk0i1zc2/7872929e863a3f9d69606a4dd0a56732_MD5.avif?rlkey=xizlzorxqxqsfqg1wep3s0qzt&raw=1
-last_sync: 5/9/2026, 5:21:24 PM
+  - /Attachments/Miniatures_Gallery/606310951175249/20260325_115605.webp
+  - /Attachments/Miniatures_Gallery/606005807165442/20260526_151722.webp
+  - /Attachments/Miniatures_Gallery/606005807165442/20260526_151746.webp
+  - /Attachments/Miniatures_Gallery/606005807165442/20260526_151544.webp
+  - /Attachments/Miniatures_Gallery/606005807165442/20260526_151523.webp
+PUB_IMG_Icon: /MetaData_Shop/_resources/606310951175249/7872929e863a3f9d69606a4dd0a56732_MD5.avif
+last_sync: 5/29/2026, 8:56:48 PM
 ---
 
 <div class="quartz-hidden">

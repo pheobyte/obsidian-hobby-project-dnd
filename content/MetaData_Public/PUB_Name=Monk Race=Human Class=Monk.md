@@ -16,12 +16,12 @@ weapons:
   - No_weapon
 other_details: []
 official_gallery:
-  - https://www.dropbox.com/scl/fi/qwhageo2vttl6jy35plo5/f7c82c4a10eaaeaf2cc511b00b3345b4_MD5.avif?rlkey=yry736yxmw3wmi3hnd1y6kq0w&raw=1
+  - /MetaData_Shop/_resources/606349471616379/f7c82c4a10eaaeaf2cc511b00b3345b4_MD5.avif
 personal_gallery:
-  - https://www.dropbox.com/scl/fi/qq7hn5n23hprrc4unkh98/20260408_120725.jpg?rlkey=xzfk8vbcxsuvvj81yi09qlgpv&raw=1
-  - https://www.dropbox.com/scl/fi/h2js1og7yp2php85ed6ib/20260408_120820.jpg?rlkey=he0iwktzjljhpirz25d26g5pw&raw=1
-PUB_IMG_Icon: https://www.dropbox.com/scl/fi/qwhageo2vttl6jy35plo5/f7c82c4a10eaaeaf2cc511b00b3345b4_MD5.avif?rlkey=yry736yxmw3wmi3hnd1y6kq0w&raw=1
-last_sync: 5/9/2026, 5:20:51 PM
+  - /Attachments/Miniatures_Gallery/606349471616379/20260408_120725.webp
+  - /Attachments/Miniatures_Gallery/606349471616379/20260408_120820.webp
+PUB_IMG_Icon: /MetaData_Shop/_resources/606349471616379/f7c82c4a10eaaeaf2cc511b00b3345b4_MD5.avif
+last_sync: 5/29/2026, 8:56:30 PM
 ---
 
 <div class="quartz-hidden">

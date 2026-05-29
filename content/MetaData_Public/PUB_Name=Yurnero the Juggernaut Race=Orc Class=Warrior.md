@@ -20,13 +20,13 @@ weapons:
   - Sword
 other_details: []
 official_gallery:
-  - https://www.dropbox.com/scl/fi/96sdrp417hq8huh61jdz6/243e6b49781a85b5fcecbdc0c51bc018_MD5.avif?rlkey=5lfdctaeuzdr96zaucjcv7pgt&raw=1
+  - /MetaData_Shop/_resources/606177136090344/243e6b49781a85b5fcecbdc0c51bc018_MD5.avif
 personal_gallery:
-  - https://www.dropbox.com/scl/fi/al00gt5c0wh89302rwfrv/20260408_125045.jpg?rlkey=i8ma83sqodardr7fnzifjfp7p&raw=1
-  - https://www.dropbox.com/scl/fi/sj4ia9ejzhoc0cpb3uuef/20260408_125026.jpg?rlkey=hr2o5ff3vygdjy9tk6viabiam&raw=1
-  - https://www.dropbox.com/scl/fi/59t8881ealjmgmrzptqfx/20260408_125059.jpg?rlkey=il3myer9xwyo8ixajvv5dczdy&raw=1
-PUB_IMG_Icon: https://www.dropbox.com/scl/fi/96sdrp417hq8huh61jdz6/243e6b49781a85b5fcecbdc0c51bc018_MD5.avif?rlkey=5lfdctaeuzdr96zaucjcv7pgt&raw=1
-last_sync: 5/9/2026, 5:21:43 PM
+  - /Attachments/Miniatures_Gallery/606177136090344/20260408_125045.webp
+  - /Attachments/Miniatures_Gallery/606177136090344/20260408_125026.webp
+  - /Attachments/Miniatures_Gallery/606177136090344/20260408_125059.webp
+PUB_IMG_Icon: /MetaData_Shop/_resources/606177136090344/243e6b49781a85b5fcecbdc0c51bc018_MD5.avif
+last_sync: 5/29/2026, 8:56:57 PM
 ---
 
 <div class="quartz-hidden">

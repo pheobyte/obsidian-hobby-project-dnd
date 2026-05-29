@@ -1,5 +1,5 @@
 ---
-qty: 1
+qty: 2
 name: Name=Undead Caster Race=Undead Class=Wizard
 race: Undead
 class: Wizard
@@ -9,6 +9,7 @@ tags:
 is_set: false
 is_nsfw: false
 sizes:
+  - 30 - 40 mm
   - 40 - 50 mm
 categories:
   - Undead
@@ -17,12 +18,16 @@ weapons:
   - Book
 other_details: []
 official_gallery:
-  - https://www.dropbox.com/scl/fi/1jtsad1hancotlon04v2u/df42e794c22df84f520bf00976629c36_MD5.avif?rlkey=nca3fw6ei9ek59y6156oessc8&raw=1
+  - /MetaData_Shop/_resources/4302491569/885db4373e3a59cf353c7bd6d70e4bfb_MD5.webp
+  - /MetaData_Shop/_resources/606066809121227/1d29954684112e413b495da7abbb61f2_MD5.avif
+  - /MetaData_Shop/_resources/606130226974918/55019c1193df76791ab446e53b0dfa95_MD5.avif
+  - /MetaData_Shop/_resources/606503352296688/df42e794c22df84f520bf00976629c36_MD5.avif
 personal_gallery:
-  - https://www.dropbox.com/scl/fi/8tzfuraksfnpb0ophpxhm/20260422_170748.jpg?rlkey=oxh0af3cpn0wl2h388ju10ytu&raw=1
-  - https://www.dropbox.com/scl/fi/0btpe2frlhj12qyuspp8i/20260422_170825.jpg?rlkey=egpyrh984piofbk6j0sl7uaqv&raw=1
-PUB_IMG_Icon: https://www.dropbox.com/scl/fi/1jtsad1hancotlon04v2u/df42e794c22df84f520bf00976629c36_MD5.avif?rlkey=nca3fw6ei9ek59y6156oessc8&raw=1
-last_sync: 5/9/2026, 5:21:23 PM
+  - /Attachments/Miniatures_Gallery/606503352296688/20260422_170748.webp
+  - /Attachments/Miniatures_Gallery/606503352296688/20260422_170825.webp
+  - /Attachments/Miniatures_Gallery/606503352296688/20260528_121245.webp
+PUB_IMG_Icon: /MetaData_Shop/_resources/4302491569/885db4373e3a59cf353c7bd6d70e4bfb_MD5.webp
+last_sync: 5/29/2026, 8:56:47 PM
 ---
 
 <div class="quartz-hidden">

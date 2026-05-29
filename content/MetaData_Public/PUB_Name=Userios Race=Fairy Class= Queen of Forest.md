@@ -12,6 +12,8 @@ tags:
 is_set: false
 is_nsfw: false
 sizes:
+  - under 30 mm
+  - 30 - 40 mm
   - 50 - 60 mm
 categories:
   - Humanoid
@@ -20,15 +22,17 @@ weapons:
 other_details:
   - has_wings
 official_gallery:
-  - https://www.dropbox.com/scl/fi/18kt8hr4zcco36d42i3mb/8fda71d90e52232c1bbafb0f9bd64603_MD5.jpg?rlkey=vvcm0n5vvzahvza9zxv5j5qrh&raw=1
-  - https://www.dropbox.com/scl/fi/k0odeh6aer3qn5jicxlbn/7372d8a441833f2fb5404e0eb0d74831_MD5.jpg?rlkey=0xp97ooa6dywwkcczmmo7eudp&raw=1
-  - https://www.dropbox.com/scl/fi/l1k821cmbk6fdgjvg93h6/2cb3cb10a65b0897a9216ca5c5b87e53_MD5.avif?rlkey=n71cqovqvntza9xv6730plika&raw=1
-  - https://www.dropbox.com/scl/fi/8nl2b9jbhqsytpgjvvkzt/e81c18ee48f4205db4b83d86b225c088_MD5.jpg?rlkey=umir8wsn3qy8412zkmq5ekcdn&raw=1
+  - /MetaData_Shop/_resources/4299749693/bd3d72c10ecb50cfd68d652d15c8fe0a_MD5.webp
+  - /MetaData_Shop/_resources/4308485183/8fda71d90e52232c1bbafb0f9bd64603_MD5.webp
+  - /MetaData_Shop/_resources/4310601372/7f6cbc2a514d0bdf4d9a4a7799e8db54_MD5.webp
+  - /MetaData_Shop/_resources/4325367758/7372d8a441833f2fb5404e0eb0d74831_MD5.webp
+  - /MetaData_Shop/_resources/601104054265156/2cb3cb10a65b0897a9216ca5c5b87e53_MD5.avif
+  - /MetaData_Shop/_resources/606171163366159/e81c18ee48f4205db4b83d86b225c088_MD5.webp
 personal_gallery:
-  - https://www.dropbox.com/scl/fi/h5avi73pmdjlldzxihqu8/20260408_125330.jpg?rlkey=6adrdtds85pjda8wvxi8ud679&raw=1
-  - https://www.dropbox.com/scl/fi/3n28mk14yc5kkg8i6pua5/20260408_125349.jpg?rlkey=r46ayx243fel0xdo30doxzdqz&raw=1
-PUB_IMG_Icon: https://www.dropbox.com/scl/fi/18kt8hr4zcco36d42i3mb/8fda71d90e52232c1bbafb0f9bd64603_MD5.jpg?rlkey=vvcm0n5vvzahvza9zxv5j5qrh&raw=1
-last_sync: 5/9/2026, 5:21:26 PM
+  - /Attachments/Miniatures_Gallery/601104054265156/20260408_125330.webp
+  - /Attachments/Miniatures_Gallery/601104054265156/20260408_125349.webp
+PUB_IMG_Icon: /MetaData_Shop/_resources/4299749693/bd3d72c10ecb50cfd68d652d15c8fe0a_MD5.webp
+last_sync: 5/29/2026, 8:56:49 PM
 ---
 
 <div class="quartz-hidden">

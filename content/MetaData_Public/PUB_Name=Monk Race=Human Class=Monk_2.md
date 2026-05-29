@@ -9,6 +9,7 @@ tags:
 is_set: false
 is_nsfw: false
 sizes:
+  - under 30 mm
   - 40 - 50 mm
 categories:
   - Humanoid
@@ -16,11 +17,12 @@ weapons:
   - Sword
 other_details: []
 official_gallery:
-  - https://www.dropbox.com/scl/fi/i1poejlb79fkhgv6bd867/37637857f80e40beac88888ff3c85e08_MD5.avif?rlkey=1s6fz6msst36n2l81f6t9gm3n&raw=1
+  - /MetaData_Shop/_resources/1613064391/df676fa601a4b55ca31fe47742fb8796_MD5.webp
+  - /MetaData_Shop/_resources/606104188731080/37637857f80e40beac88888ff3c85e08_MD5.avif
 personal_gallery:
-  - https://www.dropbox.com/scl/fi/q4j92t5zgn2wvuzh87wyj/20260505_112553.jpg?rlkey=w0havys1haa6gxyrsj16dqmxz&raw=1
-PUB_IMG_Icon: https://www.dropbox.com/scl/fi/i1poejlb79fkhgv6bd867/37637857f80e40beac88888ff3c85e08_MD5.avif?rlkey=1s6fz6msst36n2l81f6t9gm3n&raw=1
-last_sync: 5/9/2026, 5:20:52 PM
+  - /Attachments/Miniatures_Gallery/606104188731080/20260505_112553.webp
+PUB_IMG_Icon: /MetaData_Shop/_resources/1613064391/df676fa601a4b55ca31fe47742fb8796_MD5.webp
+last_sync: 5/29/2026, 8:56:29 PM
 ---
 
 <div class="quartz-hidden">

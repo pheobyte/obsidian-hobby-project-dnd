@@ -16,11 +16,14 @@ weapons: []
 other_details:
   - has_wings
 official_gallery:
-  - https://www.dropbox.com/scl/fi/i0zrbmpowh0pu38v6y8h9/331ebb1dc998b966f034e3e1178b8b8a_MD5.avif?rlkey=27sb8x5ro1rjcixq4z96f21g6&raw=1
+  - /MetaData_Shop/_resources/605747572257922/331ebb1dc998b966f034e3e1178b8b8a_MD5.avif
 personal_gallery:
-  - https://www.dropbox.com/scl/fi/xucdeqaeciqepwowrpdmw/20260408_112219.jpg?rlkey=vtducy5sghc90thjzj801f51p&raw=1
-PUB_IMG_Icon: https://www.dropbox.com/scl/fi/i0zrbmpowh0pu38v6y8h9/331ebb1dc998b966f034e3e1178b8b8a_MD5.avif?rlkey=27sb8x5ro1rjcixq4z96f21g6&raw=1
-last_sync: 5/9/2026, 5:20:19 PM
+  - /Attachments/Miniatures_Gallery/605747572257922/20260408_112219.webp
+  - /Attachments/Miniatures_Gallery/605747572257922/20260526_152627.webp
+  - /Attachments/Miniatures_Gallery/605747572257922/20260526_152458.webp
+  - /Attachments/Miniatures_Gallery/605747572257922/20260526_152443.webp
+PUB_IMG_Icon: /MetaData_Shop/_resources/605747572257922/331ebb1dc998b966f034e3e1178b8b8a_MD5.avif
+last_sync: 5/29/2026, 8:56:08 PM
 ---
 
 <div class="quartz-hidden">

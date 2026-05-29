@@ -20,11 +20,16 @@ weapons:
   - Bow
 other_details: []
 official_gallery:
-  - https://www.dropbox.com/scl/fi/48x6hr6txbi5zd0weptmk/352397010a4c478d7817538387cbc472_MD5.avif?rlkey=hjpen77i7ia6ezq1u2awuuoru&raw=1
+  - /MetaData_Shop/_resources/601101887173440/51b974eb58e543aa4591183e951ae866_MD5.avif
 personal_gallery:
-  - https://www.dropbox.com/scl/fi/z13plu4259rdvm9j8463i/20260325_151507.jpg?rlkey=0vkhr4jdi89xj5g6blswq4no7&raw=1
-PUB_IMG_Icon: https://www.dropbox.com/scl/fi/48x6hr6txbi5zd0weptmk/352397010a4c478d7817538387cbc472_MD5.avif?rlkey=hjpen77i7ia6ezq1u2awuuoru&raw=1
-last_sync: 5/9/2026, 5:20:25 PM
+  - /Attachments/Miniatures_Gallery/601101887173440/20260325_151507.webp
+  - /Attachments/Miniatures_Gallery/601101887173440/20260526_162216.webp
+  - /Attachments/Miniatures_Gallery/601101887173440/20260526_162121.webp
+  - /Attachments/Miniatures_Gallery/601101887173440/20260526_162133.webp
+  - /Attachments/Miniatures_Gallery/601101887173440/20260526_162146.webp
+  - /Attachments/Miniatures_Gallery/601101887173440/20260526_162203.webp
+PUB_IMG_Icon: /MetaData_Shop/_resources/601101887173440/51b974eb58e543aa4591183e951ae866_MD5.avif
+last_sync: 5/29/2026, 8:56:17 PM
 ---
 
 <div class="quartz-hidden">

@@ -20,11 +20,15 @@ weapons:
   - Hammer
 other_details: []
 official_gallery:
-  - https://www.dropbox.com/scl/fi/kj0yrw1bayx676xzaz7bg/dc7b55d102cf7eb9897e872282b6c9b3_MD5.jpg?rlkey=2kxxvogganwj7gugtelhyuup8&raw=1
+  - /MetaData_Shop/_resources/601103407439981/dc7b55d102cf7eb9897e872282b6c9b3_MD5.webp
 personal_gallery:
-  - https://www.dropbox.com/scl/fi/026v9e9u0a9f9lcwjs6gt/20260325_112517.jpg?rlkey=awl0a9hgqdgvtqjudmm73w3dx&raw=1
-PUB_IMG_Icon: https://www.dropbox.com/scl/fi/kj0yrw1bayx676xzaz7bg/dc7b55d102cf7eb9897e872282b6c9b3_MD5.jpg?rlkey=2kxxvogganwj7gugtelhyuup8&raw=1
-last_sync: 5/9/2026, 5:20:47 PM
+  - /Attachments/Miniatures_Gallery/601103407439981/20260325_112517.webp
+  - /Attachments/Miniatures_Gallery/601103407439981/20260526_164525.webp
+  - /Attachments/Miniatures_Gallery/601103407439981/20260526_164438.webp
+  - /Attachments/Miniatures_Gallery/601103407439981/20260526_164453.webp
+  - /Attachments/Miniatures_Gallery/601103407439981/20260526_164513.webp
+PUB_IMG_Icon: /MetaData_Shop/_resources/601103407439981/dc7b55d102cf7eb9897e872282b6c9b3_MD5.webp
+last_sync: 5/29/2026, 8:56:27 PM
 ---
 
 <div class="quartz-hidden">

@@ -1,5 +1,5 @@
 ---
-qty: 1
+qty: 2
 name: Name=Spell Breaker Race=Elf Class=Spell Breaker
 race: Elf
 class: Spell Breaker
@@ -18,12 +18,12 @@ weapons:
   - Shield
 other_details: []
 official_gallery:
-  - https://www.dropbox.com/scl/fi/6stcppxz1c07huwe0u51e/844d91350b2211005c466123190a1ef4_MD5.avif?rlkey=xfq2va9c8hkh74e8a317zfcqn&raw=1
+  - /MetaData_Shop/_resources/605695764172698/844d91350b2211005c466123190a1ef4_MD5.avif
 personal_gallery:
-  - https://www.dropbox.com/scl/fi/enbx4znammokhomx0aegw/20260429_113032.jpg?rlkey=qhvwn7epzkgx9djp0wmfprzue&raw=1
-  - https://www.dropbox.com/scl/fi/9znnnftdub7ffw5m5o3wp/20260429_113053.jpg?rlkey=4y2eean2olky1o4nkavhpxlo3&raw=1
-PUB_IMG_Icon: https://www.dropbox.com/scl/fi/6stcppxz1c07huwe0u51e/844d91350b2211005c466123190a1ef4_MD5.avif?rlkey=xfq2va9c8hkh74e8a317zfcqn&raw=1
-last_sync: 5/9/2026, 5:21:12 PM
+  - /Attachments/Miniatures_Gallery/605695764172698/20260429_113032.webp
+  - /Attachments/Miniatures_Gallery/605695764172698/20260429_113053.webp
+PUB_IMG_Icon: /MetaData_Shop/_resources/605695764172698/844d91350b2211005c466123190a1ef4_MD5.avif
+last_sync: 5/29/2026, 8:56:43 PM
 ---
 
 <div class="quartz-hidden">

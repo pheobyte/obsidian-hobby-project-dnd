@@ -20,13 +20,16 @@ weapons:
   - Dagger
 other_details: []
 official_gallery:
-  - https://www.dropbox.com/scl/fi/j5ni422u74ijtcq6tdrrx/2e50540b986822644a564fd4e103a5a3_MD5.avif?rlkey=gyjjjwrxuqz59g94bx8sllj2j&raw=1
+  - /MetaData_Shop/_resources/601103829835280/32d0c3a5232e61dfed8fb6d879d9eed0_MD5.avif
 personal_gallery:
-  - https://www.dropbox.com/scl/fi/azz5ryg6ffs5nok2xr4zv/20260422_172852.jpg?rlkey=v7vd7sr0ndj7uu6sipb2vhbso&raw=1
-  - https://www.dropbox.com/scl/fi/u0l4is64b0299q5sj1qzx/20260422_172909.jpg?rlkey=bu2gl39firka8aklkzjuir32p&raw=1
-  - https://www.dropbox.com/scl/fi/4smtf5w3kchc9ofl540su/20260422_172835.jpg?rlkey=15ziju6ek3hcgst1nov3jf0sj&raw=1
-PUB_IMG_Icon: https://www.dropbox.com/scl/fi/j5ni422u74ijtcq6tdrrx/2e50540b986822644a564fd4e103a5a3_MD5.avif?rlkey=gyjjjwrxuqz59g94bx8sllj2j&raw=1
-last_sync: 5/9/2026, 5:21:06 PM
+  - /Attachments/Miniatures_Gallery/601103829835280/20260422_172835.webp
+  - /Attachments/Miniatures_Gallery/601103829835280/20260526_162952.webp
+  - /Attachments/Miniatures_Gallery/601103829835280/20260526_163008.webp
+  - /Attachments/Miniatures_Gallery/601103829835280/20260526_163020.webp
+  - /Attachments/Miniatures_Gallery/601103829835280/20260526_163032.webp
+  - /Attachments/Miniatures_Gallery/601103829835280/20260526_163135.webp
+PUB_IMG_Icon: /MetaData_Shop/_resources/601103829835280/32d0c3a5232e61dfed8fb6d879d9eed0_MD5.avif
+last_sync: 5/29/2026, 8:56:37 PM
 ---
 
 <div class="quartz-hidden">

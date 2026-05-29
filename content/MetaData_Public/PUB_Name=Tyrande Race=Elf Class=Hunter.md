@@ -11,6 +11,7 @@ tags:
 is_set: false
 is_nsfw: false
 sizes:
+  - 70 - 80 mm
   - 60 - 70 mm
 categories:
   - Humanoid
@@ -18,13 +19,14 @@ weapons:
   - Warglaive
 other_details: []
 official_gallery:
-  - https://www.dropbox.com/scl/fi/alav0vznhl6x47mi05nev/260c70e7b390266ead753fa1f3ae9d03_MD5.avif?rlkey=e5jd281ijjn4dd1f15stv1gbh&raw=1
+  - /MetaData_Shop/_resources/605543024432132/ece92ef4da1e97e4371565c49a2cfffe_MD5.avif
+  - /MetaData_Shop/_resources/606319675340851/260c70e7b390266ead753fa1f3ae9d03_MD5.avif
 personal_gallery:
-  - https://www.dropbox.com/scl/fi/d86cgu8nn4r4nb2wd50dh/20260410_131827.jpg?rlkey=z5apslhsp17fwna8uwo3ky2yi&raw=1
-  - https://www.dropbox.com/scl/fi/r39srij29gwd86j205n82/20260410_131842.jpg?rlkey=nua15s8t1aoi4xko7yr8mxn1s&raw=1
-  - https://www.dropbox.com/scl/fi/7hk0taiqla98180ansxku/20260410_131904.jpg?rlkey=bfp5erxl2vw32fpb30g8q7vjd&raw=1
-PUB_IMG_Icon: https://www.dropbox.com/scl/fi/alav0vznhl6x47mi05nev/260c70e7b390266ead753fa1f3ae9d03_MD5.avif?rlkey=e5jd281ijjn4dd1f15stv1gbh&raw=1
-last_sync: 5/9/2026, 5:21:22 PM
+  - /Attachments/Miniatures_Gallery/606319675340851/20260410_131827.webp
+  - /Attachments/Miniatures_Gallery/606319675340851/20260410_131842.webp
+  - /Attachments/Miniatures_Gallery/606319675340851/20260410_131904.webp
+PUB_IMG_Icon: /MetaData_Shop/_resources/605543024432132/ece92ef4da1e97e4371565c49a2cfffe_MD5.avif
+last_sync: 5/29/2026, 8:56:47 PM
 ---
 
 <div class="quartz-hidden">

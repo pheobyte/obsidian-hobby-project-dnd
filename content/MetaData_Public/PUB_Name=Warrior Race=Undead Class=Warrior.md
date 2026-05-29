@@ -16,12 +16,12 @@ weapons:
   - Mace
 other_details: []
 official_gallery:
-  - https://www.dropbox.com/scl/fi/ex4l6feeyu9jaeetttvsd/f2cb3a30a5670899cc2702071e0633da_MD5.avif?rlkey=ya44pq9c8gy6dj43lpigrhs32&raw=1
+  - /MetaData_Shop/_resources/601105418956427/f2cb3a30a5670899cc2702071e0633da_MD5.avif
 personal_gallery:
-  - https://www.dropbox.com/scl/fi/4nmtcpit28q3gjqqc66oy/20260424_104425.jpg?rlkey=axkkxf6lmvrc6jsli0fv4awc2&raw=1
-  - https://www.dropbox.com/scl/fi/jq43pxmk6sgqn84wtgfvh/20260424_104441.jpg?rlkey=ivaz1go9q3eg8kdutfik4usvu&raw=1
-PUB_IMG_Icon: https://www.dropbox.com/scl/fi/ex4l6feeyu9jaeetttvsd/f2cb3a30a5670899cc2702071e0633da_MD5.avif?rlkey=ya44pq9c8gy6dj43lpigrhs32&raw=1
-last_sync: 5/9/2026, 5:21:32 PM
+  - /Attachments/Miniatures_Gallery/601105418956427/20260424_104425.webp
+  - /Attachments/Miniatures_Gallery/601105418956427/20260424_104441.webp
+PUB_IMG_Icon: /MetaData_Shop/_resources/601105418956427/f2cb3a30a5670899cc2702071e0633da_MD5.avif
+last_sync: 5/29/2026, 8:56:51 PM
 ---
 
 <div class="quartz-hidden">

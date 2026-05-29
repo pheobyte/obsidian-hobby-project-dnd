@@ -1,0 +1,37 @@
+---
+qty: 2
+name: Name=Silver Knight Race=Human Class=Knight
+race: Human
+class: Knight
+tags:
+  - Silver
+  - Knight
+  - warcraft
+is_set: false
+is_nsfw: false
+sizes:
+  - 30 - 40 mm
+categories:
+  - Humanoid
+weapons:
+  - Hammer
+  - Shield
+other_details: []
+official_gallery:
+  - /MetaData_Shop/_resources/605950157139756/065205736da8eeba35e43097f521a818_MD5.avif
+personal_gallery:
+  - /Attachments/Miniatures_Gallery/605950157139756/20260522_140019.webp
+  - /Attachments/Miniatures_Gallery/605950157139756/20260522_140034.webp
+  - /Attachments/Miniatures_Gallery/605950157139756/20260522_135950.webp
+  - /Attachments/Miniatures_Gallery/605950157139756/20260522_140005.webp
+PUB_IMG_Icon: /MetaData_Shop/_resources/605950157139756/065205736da8eeba35e43097f521a818_MD5.avif
+last_sync: 5/29/2026, 8:56:40 PM
+---
+
+<div class="quartz-hidden">
+
+# Public Reference Assets
+
+![[Public Reference Assets]]
+
+</div>

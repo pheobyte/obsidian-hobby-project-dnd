@@ -17,12 +17,12 @@ weapons:
   - Axe
 other_details: []
 official_gallery:
-  - https://www.dropbox.com/scl/fi/vkx66dgyz79nodc7fnv4b/f9f34fcc9967a3fba00a8634cdcbc690_MD5.avif?rlkey=wpz8jq5h8v5gmf04ql0vy6a14&raw=1
+  - /MetaData_Shop/_resources/601101578064254/f9f34fcc9967a3fba00a8634cdcbc690_MD5.avif
 personal_gallery:
-  - https://www.dropbox.com/scl/fi/sjkh0i4nsmc33h1nxx39q/20260326_105018.jpg?rlkey=s48qeqc62udxrabo3r6xzyy49&raw=1
-  - https://www.dropbox.com/scl/fi/9xjlumbrnzpgp0sm632vq/20260326_105035.jpg?rlkey=o4q4esasnp72e5ch1jm5nvd4i&raw=1
-PUB_IMG_Icon: https://www.dropbox.com/scl/fi/vkx66dgyz79nodc7fnv4b/f9f34fcc9967a3fba00a8634cdcbc690_MD5.avif?rlkey=wpz8jq5h8v5gmf04ql0vy6a14&raw=1
-last_sync: 5/9/2026, 5:21:28 PM
+  - /Attachments/Miniatures_Gallery/601101578064254/20260326_105018.webp
+  - /Attachments/Miniatures_Gallery/601101578064254/20260326_105035.webp
+PUB_IMG_Icon: /MetaData_Shop/_resources/601101578064254/f9f34fcc9967a3fba00a8634cdcbc690_MD5.avif
+last_sync: 5/29/2026, 8:56:50 PM
 ---
 
 <div class="quartz-hidden">

@@ -19,12 +19,12 @@ weapons:
   - Warglaive
 other_details: []
 official_gallery:
-  - https://www.dropbox.com/scl/fi/kkq4j7w1x2x3nwkzriw06/e3ddf3e1750a89712f6b30a438b66071_MD5.avif?rlkey=ojr6iygr4w4277aftby3ikko8&raw=1
+  - /MetaData_Shop/_resources/606099289784331/e3ddf3e1750a89712f6b30a438b66071_MD5.avif
 personal_gallery:
-  - https://www.dropbox.com/scl/fi/kl5vgbnu8sdfl9mt5nr5d/20260410_133817.jpg?rlkey=hewla8tdezzy36d1wc4sqmxk0&raw=1
-  - https://www.dropbox.com/scl/fi/aoh6g4ghd1hfkj71nltyh/20260410_133841.jpg?rlkey=d8n6vb5uifdzcyr3g5mh1e7vg&raw=1
-PUB_IMG_Icon: https://www.dropbox.com/scl/fi/kkq4j7w1x2x3nwkzriw06/e3ddf3e1750a89712f6b30a438b66071_MD5.avif?rlkey=ojr6iygr4w4277aftby3ikko8&raw=1
-last_sync: 5/9/2026, 5:21:30 PM
+  - /Attachments/Miniatures_Gallery/606099289784331/20260410_133817.webp
+  - /Attachments/Miniatures_Gallery/606099289784331/20260410_133841.webp
+PUB_IMG_Icon: /MetaData_Shop/_resources/606099289784331/e3ddf3e1750a89712f6b30a438b66071_MD5.avif
+last_sync: 5/29/2026, 8:56:51 PM
 ---
 
 <div class="quartz-hidden">

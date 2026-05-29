@@ -19,12 +19,12 @@ weapons:
 other_details:
   - is_mounted
 official_gallery:
-  - https://www.dropbox.com/scl/fi/1z7cs012644e7zhxyz0zc/08164700db6b6895397b281ad49d36e4_MD5.avif?rlkey=jzr16ms8659012m2ushn13xes&raw=1
+  - /MetaData_Shop/_resources/606386985483853/08164700db6b6895397b281ad49d36e4_MD5.avif
 personal_gallery:
-  - https://www.dropbox.com/scl/fi/c9mgo431dth1foellshwb/20260410_135043.jpg?rlkey=jbkumnldkiriv4yr5hsxxxcmt&raw=1
-  - https://www.dropbox.com/scl/fi/pbdbbe77h1g9lk25isdzq/20260410_135217.jpg?rlkey=7yjrdj1x6zv52t3dxplvfgtk3&raw=1
-PUB_IMG_Icon: https://www.dropbox.com/scl/fi/1z7cs012644e7zhxyz0zc/08164700db6b6895397b281ad49d36e4_MD5.avif?rlkey=jzr16ms8659012m2ushn13xes&raw=1
-last_sync: 5/9/2026, 5:20:36 PM
+  - /Attachments/Miniatures_Gallery/606386985483853/20260410_135043.webp
+  - /Attachments/Miniatures_Gallery/606386985483853/20260410_135217.webp
+PUB_IMG_Icon: /MetaData_Shop/_resources/606386985483853/08164700db6b6895397b281ad49d36e4_MD5.avif
+last_sync: 5/29/2026, 8:56:23 PM
 ---
 
 <div class="quartz-hidden">

@@ -11,6 +11,7 @@ tags:
 is_set: false
 is_nsfw: false
 sizes:
+  - under 30 mm
   - 30 - 40 mm
 categories:
   - Humanoid
@@ -18,13 +19,13 @@ weapons:
   - Sword
 other_details: []
 official_gallery:
-  - https://www.dropbox.com/scl/fi/l5mtmbvlfc1wz96ky7lkb/472475cf695c9cba036113b3ca80fac4_MD5.jpg?rlkey=vlla3xfbzq7gstgsdcowvyse7&raw=1
-  - https://www.dropbox.com/scl/fi/0ui34s2oh517sfofwzhtd/6b00cf18b8e7a832500626d61ea95908_MD5.jpg?rlkey=16jdhydavmhrmuarduc8vuaa6&raw=1
-  - https://www.dropbox.com/scl/fi/pml0ub1od5vh12nzbhn1s/6c021ead8a518f4722d435da459bfafd_MD5.avif?rlkey=ygrlbqja41qd3fk8k25e3b3g6&raw=1
+  - /MetaData_Shop/_resources/1885759072/472475cf695c9cba036113b3ca80fac4_MD5.webp
+  - /MetaData_Shop/_resources/4322916333/6b00cf18b8e7a832500626d61ea95908_MD5.webp
+  - /MetaData_Shop/_resources/601105807084120/6c021ead8a518f4722d435da459bfafd_MD5.avif
 personal_gallery:
-  - https://www.dropbox.com/scl/fi/km0w01jumjbmyp25hw6pi/20260325_140608.jpg?rlkey=8w3zij5tx8tpez863rwcwoaxx&raw=1
-PUB_IMG_Icon: https://www.dropbox.com/scl/fi/l5mtmbvlfc1wz96ky7lkb/472475cf695c9cba036113b3ca80fac4_MD5.jpg?rlkey=vlla3xfbzq7gstgsdcowvyse7&raw=1
-last_sync: 5/9/2026, 5:21:29 PM
+  - /Attachments/Miniatures_Gallery/601105807084120/20260526_170919.webp
+PUB_IMG_Icon: /MetaData_Shop/_resources/1885759072/472475cf695c9cba036113b3ca80fac4_MD5.webp
+last_sync: 5/29/2026, 8:56:50 PM
 ---
 
 <div class="quartz-hidden">

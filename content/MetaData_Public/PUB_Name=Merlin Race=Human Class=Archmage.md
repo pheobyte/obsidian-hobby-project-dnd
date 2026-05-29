@@ -17,11 +17,11 @@ weapons:
   - Staff
 other_details: []
 official_gallery:
-  - https://www.dropbox.com/scl/fi/mo9en7o6dkudnod6acz29/3b26335b259c1a998de4a52028ae56bd_MD5.jpg?rlkey=ma7qu3oqlutotab6coigpoots&raw=1
+  - /MetaData_Shop/_resources/601101253904153/3b26335b259c1a998de4a52028ae56bd_MD5.webp
 personal_gallery:
-  - https://www.dropbox.com/scl/fi/4qsa0hh76pzwb0ajq8dlg/20260505_112329.jpg?rlkey=wyuqepobjhkd2y5obcric32sk&raw=1
-PUB_IMG_Icon: https://www.dropbox.com/scl/fi/mo9en7o6dkudnod6acz29/3b26335b259c1a998de4a52028ae56bd_MD5.jpg?rlkey=ma7qu3oqlutotab6coigpoots&raw=1
-last_sync: 5/9/2026, 5:20:49 PM
+  - /Attachments/Miniatures_Gallery/601101253904153/20260505_112329.webp
+PUB_IMG_Icon: /MetaData_Shop/_resources/601101253904153/3b26335b259c1a998de4a52028ae56bd_MD5.webp
+last_sync: 5/29/2026, 8:56:28 PM
 ---
 
 <div class="quartz-hidden">

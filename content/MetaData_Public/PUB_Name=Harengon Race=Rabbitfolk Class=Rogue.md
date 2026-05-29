@@ -21,12 +21,12 @@ weapons:
   - Dagger
 other_details: []
 official_gallery:
-  - https://www.dropbox.com/scl/fi/pnj3ens8ailkb3jtw65xx/444803ec6639ccbe1b21fd1004991f5c_MD5.avif?rlkey=sm37a0bd9tio04ozc5zurngzl&raw=1
+  - /MetaData_Shop/_resources/601105785466706/444803ec6639ccbe1b21fd1004991f5c_MD5.avif
 personal_gallery:
-  - https://www.dropbox.com/scl/fi/ylw9rmypgs5w1hhg4loqm/20260422_165105.jpg?rlkey=rcohfacc7qk71rzy0cyn6pwow&raw=1
-  - https://www.dropbox.com/scl/fi/7vmv8ueyvsor46r2fca71/20260422_165142.jpg?rlkey=0av11j1p73a56n4e1vcs8ym9s&raw=1
-PUB_IMG_Icon: https://www.dropbox.com/scl/fi/pnj3ens8ailkb3jtw65xx/444803ec6639ccbe1b21fd1004991f5c_MD5.avif?rlkey=sm37a0bd9tio04ozc5zurngzl&raw=1
-last_sync: 5/9/2026, 5:20:29 PM
+  - /Attachments/Miniatures_Gallery/601105785466706/20260422_165105.webp
+  - /Attachments/Miniatures_Gallery/601105785466706/20260422_165142.webp
+PUB_IMG_Icon: /MetaData_Shop/_resources/601105785466706/444803ec6639ccbe1b21fd1004991f5c_MD5.avif
+last_sync: 5/29/2026, 8:56:18 PM
 ---
 
 <div class="quartz-hidden">

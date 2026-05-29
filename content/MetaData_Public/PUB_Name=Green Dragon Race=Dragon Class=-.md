@@ -16,13 +16,13 @@ weapons:
 other_details:
   - has_wings
 official_gallery:
-  - https://www.dropbox.com/scl/fi/2foghwapnok6jm068tv7m/853a33dd2e3f22cdb14820fd9d7969db_MD5.jpg?rlkey=f7y81czatdb91qu0wpnzvwlk6&raw=1
+  - /MetaData_Shop/_resources/601104625566014/853a33dd2e3f22cdb14820fd9d7969db_MD5.webp
 personal_gallery:
-  - https://www.dropbox.com/scl/fi/ymwylv2v737zm9s0jvd9w/0a315bdf-7bd7-4c48-965b-146b86235487_2312x1734.jpeg?rlkey=ol7zevg96sxob9sufdor8pv4y&raw=1
-  - https://www.dropbox.com/scl/fi/z0tbgnb6wf5vvlmelfe2u/af45615a-e24b-468b-9ac5-c4799cb99c91_2312x1734.jpeg?rlkey=akc9azkvfel0issjxwc4cqexh&raw=1
-  - https://www.dropbox.com/scl/fi/v0ncwzvkgm04k72g80brt/e4eed482-f964-4730-8a1b-dcacdb9729dd_2312x1734.jpeg?rlkey=itvs6f298csopm3hrjcnrvhpk&raw=1
-PUB_IMG_Icon: https://www.dropbox.com/scl/fi/2foghwapnok6jm068tv7m/853a33dd2e3f22cdb14820fd9d7969db_MD5.jpg?rlkey=f7y81czatdb91qu0wpnzvwlk6&raw=1
-last_sync: 5/9/2026, 5:20:28 PM
+  - /Attachments/Miniatures_Gallery/601104625566014/0a315bdf-7bd7-4c48-965b-146b86235487_2312x1734.webp
+  - /Attachments/Miniatures_Gallery/601104625566014/af45615a-e24b-468b-9ac5-c4799cb99c91_2312x1734.webp
+  - /Attachments/Miniatures_Gallery/601104625566014/e4eed482-f964-4730-8a1b-dcacdb9729dd_2312x1734.webp
+PUB_IMG_Icon: /MetaData_Shop/_resources/601104625566014/853a33dd2e3f22cdb14820fd9d7969db_MD5.webp
+last_sync: 5/29/2026, 8:56:18 PM
 ---
 
 <div class="quartz-hidden">
