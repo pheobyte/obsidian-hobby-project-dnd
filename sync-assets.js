@@ -10,9 +10,9 @@ const __dirname = path.dirname(__filename);
 const VAULT_ROOT = "C:/Users/pheob/Documents/Obsidian Hobby Project/Obsidian Data/Project1dnd"; 
 const SOURCE_MD_FOLDER = path.join(VAULT_ROOT, "MetaData_Public");
 const DEST_CONTENT_ROOT = path.join(__dirname, "content");  // Destination for Markdown pages
-const DEST_STATIC_ROOT = path.join(__dirname, "quartz", "static"); // 🛠️ New: Forced destination for Assets
+const DEST_STATIC_ROOT = path.join(__dirname, "quartz", "static"); // 🛠️ Forced destination for Assets
 
-console.log("🚀 Syncing Notes, converting images to WebP, and formatting relative paths...");
+console.log("🚀 Syncing Notes, converting images (including AVIF) to WebP, and formatting relative paths...");
 
 if (!fs.existsSync(SOURCE_MD_FOLDER)) {
     console.error(`❌ Error: Source folder not found at ${SOURCE_MD_FOLDER}`);
@@ -39,15 +39,17 @@ for (const file of markdownFiles) {
         const absoluteSrcImgPath = path.join(VAULT_ROOT, rawVaultPath);
 
         if (fs.existsSync(absoluteSrcImgPath)) {
-            const isConvertibleImage = /\.(png|jpg|jpeg)$/i.test(rawVaultPath);
+            // 🛠️ CHANGED: Added 'avif' to the file extension match group
+            const isConvertibleImage = /\.(png|jpg|jpeg|avif)$/i.test(rawVaultPath);
             let finalVaultPath = rawVaultPath;
 
             // If it's a standard image, change the target destination extension to .webp
             if (isConvertibleImage) {
-                finalVaultPath = rawVaultPath.replace(/\.(png|jpg|jpeg)$/i, '.webp');
+                // 🛠️ CHANGED: Replaced the original extension with .webp for AVIF too
+                finalVaultPath = rawVaultPath.replace(/\.(png|jpg|jpeg|avif)$/i, '.webp');
             }
 
-            // 🛠️ Route assets directly into quartz/static/ instead of content/
+            // Route assets directly into quartz/static/ instead of content/
             const absoluteDestStaticImgPath = path.join(DEST_STATIC_ROOT, finalVaultPath);
             const destStaticImgDir = path.dirname(absoluteDestStaticImgPath);
             
@@ -58,7 +60,7 @@ for (const file of markdownFiles) {
                     // ⚡ Convert, resize, and compress the image on the fly
                     await sharp(absoluteSrcImgPath)
                         .resize({ width: 1400, withoutEnlargement: true }) // Resizes wide images; leaves small images alone
-                        .webp({ quality: 75 })                            // 75% quality WebP is the golden sweet spot for size/clarity
+                        .webp({ quality: 75 })                             // 75% quality WebP is the golden sweet spot for size/clarity
                         .toFile(absoluteDestStaticImgPath);
                 } catch (err) {
                     console.error(`⚠️ Failed to process image ${rawVaultPath}:`, err.message);
@@ -77,9 +79,9 @@ for (const file of markdownFiles) {
     content = content.replace(pathRegex, (m) => {
         let trimmed = m.trim();
         
-        // Swap extension to .webp in the markdown string if it matches an image type
-        if (/\.(png|jpg|jpeg)$/i.test(trimmed)) {
-            trimmed = trimmed.replace(/\.(png|jpg|jpeg)$/i, '.webp');
+        // 🛠️ CHANGED: Swaps .avif extensions inside markdown files to .webp as well
+        if (/\.(png|jpg|jpeg|avif)$/i.test(trimmed)) {
+            trimmed = trimmed.replace(/\.(png|jpg|jpeg|avif)$/i, '.webp');
         }
         
         // Strip out any accidental leading slash if it exists
@@ -96,4 +98,4 @@ for (const file of markdownFiles) {
     fs.writeFileSync(destFilePath, content, 'utf8');
 }
 
-console.log(`\n✅ Success! All markdown assets prepped in content/, and images deployed safely to quartz/static/.`);
+console.log(`\n✅ Success! All markdown assets prepped in content/, and images (including AVIF) deployed safely to quartz/static/.`);

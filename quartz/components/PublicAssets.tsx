@@ -22,19 +22,18 @@ export default ((userOpts?: any) => {
 
     // 2. Helper function to sanitize and map paths cleanly to quartz/static/
     const resolveImgSrc = (rawPath: string) => {
-      let cleanPath = rawPath.trim()
-      
-      // Auto-swap extension to match optimized webp files
-      if (/\.(png|jpg|jpeg)$/i.test(cleanPath)) {
-        cleanPath = cleanPath.replace(/\.(png|jpg|jpeg)$/i, '.webp')
-      }
-      
-      // Strip any accidental leading relative markers or slashes
-      cleanPath = cleanPath.replace(/^(\.\.\/|\.\/|\/)+/, "")
-      
-      // 👉 Change this to `${baseDir}/${cleanPath}` if you choose to keep images in content/
-      return `${baseDir}/static/${cleanPath}`
-    }
+  let cleanPath = rawPath.trim()
+  
+  // 🛠️ Updated regex to include avif files
+  if (/\.(png|jpg|jpeg|avif)$/i.test(cleanPath)) {
+    cleanPath = cleanPath.replace(/\.(png|jpg|jpeg|avif)$/i, '.webp')
+  }
+  
+  // Strip any accidental leading relative markers or slashes
+  cleanPath = cleanPath.replace(/^(\.\.\/|\.\/|\/)+/, "")
+  
+  return `${baseDir}/static/${cleanPath}`
+}
 
     const boxWidth = 300
     const boxHeight = 450

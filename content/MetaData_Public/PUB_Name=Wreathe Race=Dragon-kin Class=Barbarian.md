@@ -27,11 +27,11 @@ official_gallery:
   - ../MetaData_Shop/_resources/1592854386/1454743d41960d512b71ab5a02424051_MD5.webp
   - ../MetaData_Shop/_resources/1745241961/55c0df27b8cd77514ee09f9ef4b65d68_MD5.webp
   - ../MetaData_Shop/_resources/4429192305/a9052dbe21cce43040076dc86bcb6a32_MD5.webp
-  - ../MetaData_Shop/_resources/601099687912172/74f6fa34550c3d7eef086518a863abeb_MD5.avif
-  - ../MetaData_Shop/_resources/601099910124066/42dc7bc0d55dd500e869c61b5ac58eea_MD5.avif
-  - ../MetaData_Shop/_resources/601100471668316/19a14b57691e14e34df41220ce8d5505_MD5.avif
-  - ../MetaData_Shop/_resources/601104887942925/ac55c77de9330e618c13823e80bd4c01_MD5.avif
-  - ../MetaData_Shop/_resources/605674960431320/f87c60f8c97ebd6434aff04ed90eb945_MD5.avif
+  - ../MetaData_Shop/_resources/601099687912172/74f6fa34550c3d7eef086518a863abeb_MD5.webp
+  - ../MetaData_Shop/_resources/601099910124066/42dc7bc0d55dd500e869c61b5ac58eea_MD5.webp
+  - ../MetaData_Shop/_resources/601100471668316/19a14b57691e14e34df41220ce8d5505_MD5.webp
+  - ../MetaData_Shop/_resources/601104887942925/ac55c77de9330e618c13823e80bd4c01_MD5.webp
+  - ../MetaData_Shop/_resources/605674960431320/f87c60f8c97ebd6434aff04ed90eb945_MD5.webp
 personal_gallery:
   - ../Attachments/Miniatures_Gallery/605674960431320/20260515_122902.webp
   - ../Attachments/Miniatures_Gallery/605674960431320/20260515_122913.webp

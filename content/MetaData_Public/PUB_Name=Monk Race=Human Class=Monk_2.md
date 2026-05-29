@@ -18,7 +18,7 @@ weapons:
 other_details: []
 official_gallery:
   - ../MetaData_Shop/_resources/1613064391/df676fa601a4b55ca31fe47742fb8796_MD5.webp
-  - ../MetaData_Shop/_resources/606104188731080/37637857f80e40beac88888ff3c85e08_MD5.avif
+  - ../MetaData_Shop/_resources/606104188731080/37637857f80e40beac88888ff3c85e08_MD5.webp
 personal_gallery:
   - ../Attachments/Miniatures_Gallery/606104188731080/20260505_112553.webp
 PUB_IMG_Icon: ../MetaData_Shop/_resources/1613064391/df676fa601a4b55ca31fe47742fb8796_MD5.webp

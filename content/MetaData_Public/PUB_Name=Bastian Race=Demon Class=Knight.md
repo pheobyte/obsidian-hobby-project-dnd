@@ -25,12 +25,12 @@ official_gallery:
   - ../MetaData_Shop/_resources/1733534926/b2e2461b222657d773cbc9da5cecffdb_MD5.webp
   - ../MetaData_Shop/_resources/1740681925/b6b194dba6ce5b680ccf9cbfa5dce562_MD5.webp
   - ../MetaData_Shop/_resources/4330129698/1aa7d3826822875f951f2741bcc72b13_MD5.webp
-  - ../MetaData_Shop/_resources/605786696697644/cb60253036f3d20b380e2f167534a9ef_MD5.avif
-  - ../MetaData_Shop/_resources/605964535226933/88ce5d5fcb246094ea404b889da51f99_MD5.avif
-  - ../MetaData_Shop/_resources/606035939041128/3d4935ae05df300d541f5d97b9eb211e_MD5.avif
-  - ../MetaData_Shop/_resources/606042717028346/bfe04cb7cfe1769ec74f506161bcbb95_MD5.avif
-  - ../MetaData_Shop/_resources/606090901214612/fcc6c96d463e947abf3cf06f01185204_MD5.avif
-  - ../MetaData_Shop/_resources/606503352264398/f6ec46cd7e1acc6530b79dd62cc8ce14_MD5.avif
+  - ../MetaData_Shop/_resources/605786696697644/cb60253036f3d20b380e2f167534a9ef_MD5.webp
+  - ../MetaData_Shop/_resources/605964535226933/88ce5d5fcb246094ea404b889da51f99_MD5.webp
+  - ../MetaData_Shop/_resources/606035939041128/3d4935ae05df300d541f5d97b9eb211e_MD5.webp
+  - ../MetaData_Shop/_resources/606042717028346/bfe04cb7cfe1769ec74f506161bcbb95_MD5.webp
+  - ../MetaData_Shop/_resources/606090901214612/fcc6c96d463e947abf3cf06f01185204_MD5.webp
+  - ../MetaData_Shop/_resources/606503352264398/f6ec46cd7e1acc6530b79dd62cc8ce14_MD5.webp
 personal_gallery:
   - ../Attachments/Miniatures_Gallery/606090901214612/20260408_120337.webp
   - ../Attachments/Miniatures_Gallery/606090901214612/20260408_120416.webp

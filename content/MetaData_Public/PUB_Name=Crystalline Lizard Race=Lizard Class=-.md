@@ -22,8 +22,8 @@ official_gallery:
   - ../MetaData_Shop/_resources/1691171985/182f9d1815bd04d3cd21a4f44b450967_MD5.webp
   - ../MetaData_Shop/_resources/1726527048/03e8aab10f44735740eadf787b4640b9_MD5.webp
   - ../MetaData_Shop/_resources/1729420264/420ac179810b92555eb74715a8ff212e_MD5.webp
-  - ../MetaData_Shop/_resources/601102883350659/a3eb05c7570ed1659b6406a33fef12f4_MD5.avif
-  - ../MetaData_Shop/_resources/606141551613813/5c12defc627a20d3d125b669e98d770d_MD5.avif
+  - ../MetaData_Shop/_resources/601102883350659/a3eb05c7570ed1659b6406a33fef12f4_MD5.webp
+  - ../MetaData_Shop/_resources/606141551613813/5c12defc627a20d3d125b669e98d770d_MD5.webp
 personal_gallery:
   - ../Attachments/Miniatures_Gallery/601102883350659/20260409_155338.webp
   - ../Attachments/Miniatures_Gallery/601102883350659/20260409_155356.webp

@@ -19,11 +19,11 @@ weapons:
 other_details:
   - is_mounted
 official_gallery:
-  - ../MetaData_Shop/_resources/606386985483853/08164700db6b6895397b281ad49d36e4_MD5.avif
+  - ../MetaData_Shop/_resources/606386985483853/08164700db6b6895397b281ad49d36e4_MD5.webp
 personal_gallery:
   - ../Attachments/Miniatures_Gallery/606386985483853/20260410_135043.webp
   - ../Attachments/Miniatures_Gallery/606386985483853/20260410_135217.webp
-PUB_IMG_Icon: ../MetaData_Shop/_resources/606386985483853/08164700db6b6895397b281ad49d36e4_MD5.avif
+PUB_IMG_Icon: ../MetaData_Shop/_resources/606386985483853/08164700db6b6895397b281ad49d36e4_MD5.webp
 last_sync: 5/29/2026, 8:56:23 PM
 ---
 

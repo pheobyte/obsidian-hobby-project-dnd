@@ -15,7 +15,7 @@ categories:
 weapons: []
 other_details: []
 official_gallery:
-  - ../MetaData_Shop/_resources/601103782786585/b9ebaa850cbc047a95f4f7f26b13cf38_MD5.avif
+  - ../MetaData_Shop/_resources/601103782786585/b9ebaa850cbc047a95f4f7f26b13cf38_MD5.webp
 personal_gallery:
   - ../Attachments/Miniatures_Gallery/601103782786585/20260515_123600.webp
   - ../Attachments/Miniatures_Gallery/601103782786585/20260515_124139.webp
@@ -30,7 +30,7 @@ personal_gallery:
   - ../Attachments/Miniatures_Gallery/601103782786585/20260515_124031.webp
   - ../Attachments/Miniatures_Gallery/601103782786585/20260515_124014.webp
   - ../Attachments/Miniatures_Gallery/601103782786585/20260515_123952.webp
-PUB_IMG_Icon: ../MetaData_Shop/_resources/601103782786585/b9ebaa850cbc047a95f4f7f26b13cf38_MD5.avif
+PUB_IMG_Icon: ../MetaData_Shop/_resources/601103782786585/b9ebaa850cbc047a95f4f7f26b13cf38_MD5.webp
 last_sync: 5/29/2026, 8:56:33 PM
 ---
 

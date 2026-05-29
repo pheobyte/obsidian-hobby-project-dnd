@@ -20,7 +20,7 @@ other_details: []
 official_gallery:
   - ../MetaData_Shop/_resources/1591233114/d29246f3e6ea8547ff79aaba6170ab94_MD5.webp
   - ../MetaData_Shop/_resources/1741168855/48305c18cb7cf5d46ae368516cbb61d7_MD5.webp
-  - ../MetaData_Shop/_resources/606509727633274/90178a276812ff25f6faf2e06d208713_MD5.avif
+  - ../MetaData_Shop/_resources/606509727633274/90178a276812ff25f6faf2e06d208713_MD5.webp
 personal_gallery:
   - ../Attachments/Miniatures_Gallery/606509727633274/20260505_100014.webp
   - ../Attachments/Miniatures_Gallery/606509727633274/20260427_103335.webp

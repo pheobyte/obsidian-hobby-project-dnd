@@ -20,7 +20,7 @@ weapons:
 other_details:
   - has_wings
 official_gallery:
-  - ../MetaData_Shop/_resources/606395374081120/03c9d6620b5b45271aba510cb3fddda0_MD5.avif
+  - ../MetaData_Shop/_resources/606395374081120/03c9d6620b5b45271aba510cb3fddda0_MD5.webp
 personal_gallery:
   - ../Attachments/Miniatures_Gallery/606395374081120/20260325_145037.webp
   - ../Attachments/Miniatures_Gallery/606395374081120/20260526_154621.webp
@@ -28,7 +28,7 @@ personal_gallery:
   - ../Attachments/Miniatures_Gallery/606395374081120/20260526_154711.webp
   - ../Attachments/Miniatures_Gallery/606395374081120/20260526_154657.webp
   - ../Attachments/Miniatures_Gallery/606395374081120/20260526_154643.webp
-PUB_IMG_Icon: ../MetaData_Shop/_resources/606395374081120/03c9d6620b5b45271aba510cb3fddda0_MD5.avif
+PUB_IMG_Icon: ../MetaData_Shop/_resources/606395374081120/03c9d6620b5b45271aba510cb3fddda0_MD5.webp
 last_sync: 5/29/2026, 8:56:15 PM
 ---
 

@@ -20,13 +20,13 @@ weapons:
 other_details:
   - is_mounted
 official_gallery:
-  - ../MetaData_Shop/_resources/605800722440150/39a797b9b10aea7054542c5d5a30fd52_MD5.avif
+  - ../MetaData_Shop/_resources/605800722440150/39a797b9b10aea7054542c5d5a30fd52_MD5.webp
 personal_gallery:
   - ../Attachments/Miniatures_Gallery/605800722440150/20260528_121459.webp
   - ../Attachments/Miniatures_Gallery/605800722440150/20260516_125414.webp
   - ../Attachments/Miniatures_Gallery/605800722440150/20260516_125442.webp
   - ../Attachments/Miniatures_Gallery/605800722440150/20260516_125525.webp
-PUB_IMG_Icon: ../MetaData_Shop/_resources/605800722440150/39a797b9b10aea7054542c5d5a30fd52_MD5.avif
+PUB_IMG_Icon: ../MetaData_Shop/_resources/605800722440150/39a797b9b10aea7054542c5d5a30fd52_MD5.webp
 last_sync: 5/29/2026, 8:56:34 PM
 ---
 
