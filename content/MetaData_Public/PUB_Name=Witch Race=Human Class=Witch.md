@@ -17,10 +17,10 @@ weapons:
 other_details:
   - has_pets
 official_gallery:
-  - ../MetaData_Shop/_resources/601105809240571/de356620f1e0de0e17c5b369cd5ab86a_MD5.webp
+  - ../MetaData_Shop/resources/601105809240571/de356620f1e0de0e17c5b369cd5ab86a_MD5.webp
 personal_gallery:
   - ../Attachments/Miniatures_Gallery/601105809240571/20260526_151311.webp
-PUB_IMG_Icon: ../MetaData_Shop/_resources/601105809240571/de356620f1e0de0e17c5b369cd5ab86a_MD5.webp
+PUB_IMG_Icon: ../MetaData_Shop/resources/601105809240571/de356620f1e0de0e17c5b369cd5ab86a_MD5.webp
 last_sync: 5/29/2026, 8:56:53 PM
 ---
 

@@ -17,11 +17,11 @@ weapons:
   - Scythe
 other_details: []
 official_gallery:
-  - ../MetaData_Shop/_resources/601105771806565/3dad0502917119b071e09c64d8b6683f_MD5.webp
+  - ../MetaData_Shop/resources/601105771806565/3dad0502917119b071e09c64d8b6683f_MD5.webp
 personal_gallery:
   - ../Attachments/Miniatures_Gallery/601105771806565/20260424_101348.webp
   - ../Attachments/Miniatures_Gallery/601105771806565/20260424_101408.webp
-PUB_IMG_Icon: ../MetaData_Shop/_resources/601105771806565/3dad0502917119b071e09c64d8b6683f_MD5.webp
+PUB_IMG_Icon: ../MetaData_Shop/resources/601105771806565/3dad0502917119b071e09c64d8b6683f_MD5.webp
 last_sync: 5/29/2026, 8:56:31 PM
 ---
 

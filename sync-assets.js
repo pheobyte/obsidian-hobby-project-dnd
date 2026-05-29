@@ -34,16 +34,19 @@ for (const file of markdownFiles) {
 
     let match;
     while ((match = pathRegex.exec(content)) !== null) {
-        // 🛠️ FIX: Normalize backslashes to forward slashes immediately for processing
+        // Normalize backslashes to forward slashes immediately for processing
         const rawVaultPath = match[0].trim().replace(/\\/g, '/');
+        // Keep this pointing to the real local file with the underscore intact!
         const absoluteSrcImgPath = path.join(VAULT_ROOT, rawVaultPath);
 
         if (fs.existsSync(absoluteSrcImgPath)) {
             const isConvertibleImage = /\.(png|jpg|jpeg|avif)$/i.test(rawVaultPath);
-            let finalVaultPath = rawVaultPath;
+            
+            // 🛠️ WEB DEPLOYMENT FIX: Safely swap out the underscore folder name for the web output
+            let finalVaultPath = rawVaultPath.replace(/_resources/g, 'resources');
 
             if (isConvertibleImage) {
-                finalVaultPath = rawVaultPath.replace(/\.(png|jpg|jpeg|avif)$/i, '.webp');
+                finalVaultPath = finalVaultPath.replace(/\.(png|jpg|jpeg|avif)$/i, '.webp');
             }
 
             const absoluteDestStaticImgPath = path.join(DEST_STATIC_ROOT, finalVaultPath);
@@ -59,7 +62,9 @@ for (const file of markdownFiles) {
                         .toFile(absoluteDestStaticImgPath);
                 } catch (err) {
                     console.error(`⚠️ Failed to process image ${rawVaultPath}:`, err.message);
-                    fs.copyFileSync(absoluteSrcImgPath, path.join(DEST_STATIC_ROOT, rawVaultPath));
+                    // 🛠️ WEB DEPLOYMENT FIX: Ensure fallback copy uses the web-friendly folder name
+                    const fallbackPath = path.join(DEST_STATIC_ROOT, rawVaultPath.replace(/_resources/g, 'resources'));
+                    fs.copyFileSync(absoluteSrcImgPath, fallbackPath);
                 }
             } else {
                 fs.copyFileSync(absoluteSrcImgPath, absoluteDestStaticImgPath);
@@ -69,8 +74,11 @@ for (const file of markdownFiles) {
 
     // Rewrite image references inside the markdown document
     content = content.replace(pathRegex, (m) => {
-        // 🛠️ FIX: Clean up Windows paths inside your notes to use web-safe forward slashes
+        // Clean up Windows paths inside your notes to use web-safe forward slashes
         let trimmed = m.trim().replace(/\\/g, '/');
+        
+        // 🛠️ WEB DEPLOYMENT FIX: Strip out the underscore for the generated HTML files
+        trimmed = trimmed.replace(/_resources/g, 'resources');
         
         if (/\.(png|jpg|jpeg|avif)$/i.test(trimmed)) {
             trimmed = trimmed.replace(/\.(png|jpg|jpeg|avif)$/i, '.webp');

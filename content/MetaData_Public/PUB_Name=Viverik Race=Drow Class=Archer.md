@@ -21,16 +21,16 @@ weapons:
   - Sword
 other_details: []
 official_gallery:
-  - ../MetaData_Shop/_resources/1775981330/1c8c5c74353c726091332a53019e8051_MD5.webp
-  - ../MetaData_Shop/_resources/1788881157/150d9c7a2a78ec3299eae2903db21228_MD5.webp
-  - ../MetaData_Shop/_resources/4299569662/23f0f556d100ae7461b276afca5ad19f_MD5.webp
-  - ../MetaData_Shop/_resources/4465705582/1c8c5c74353c726091332a53019e8051_MD5.webp
-  - ../MetaData_Shop/_resources/601105166154170/3b89c960f27e7481f53bcdc49db72e8a_MD5.webp
-  - ../MetaData_Shop/_resources/606254026070985/26331328bfa6697e3ee460f4a4fe18d6_MD5.webp
+  - ../MetaData_Shop/resources/1775981330/1c8c5c74353c726091332a53019e8051_MD5.webp
+  - ../MetaData_Shop/resources/1788881157/150d9c7a2a78ec3299eae2903db21228_MD5.webp
+  - ../MetaData_Shop/resources/4299569662/23f0f556d100ae7461b276afca5ad19f_MD5.webp
+  - ../MetaData_Shop/resources/4465705582/1c8c5c74353c726091332a53019e8051_MD5.webp
+  - ../MetaData_Shop/resources/601105166154170/3b89c960f27e7481f53bcdc49db72e8a_MD5.webp
+  - ../MetaData_Shop/resources/606254026070985/26331328bfa6697e3ee460f4a4fe18d6_MD5.webp
 personal_gallery:
   - ../Attachments/Miniatures_Gallery/601105166154170/20260325_113728.webp
   - ../Attachments/Miniatures_Gallery/601105166154170/20260325_113755.webp
-PUB_IMG_Icon: ../MetaData_Shop/_resources/1775981330/1c8c5c74353c726091332a53019e8051_MD5.webp
+PUB_IMG_Icon: ../MetaData_Shop/resources/1775981330/1c8c5c74353c726091332a53019e8051_MD5.webp
 last_sync: 5/29/2026, 8:56:50 PM
 ---
 

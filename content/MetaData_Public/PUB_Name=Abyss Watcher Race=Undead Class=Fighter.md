@@ -19,15 +19,15 @@ weapons:
   - Dagger
 other_details: []
 official_gallery:
-  - ../MetaData_Shop/_resources/605866086470474/d5013d270a062094bf730ce23953765d_MD5.webp
-  - ../MetaData_Shop/_resources/605901436098572/ef667589f8eb118436231df61d44bf97_MD5.webp
+  - ../MetaData_Shop/resources/605866086470474/d5013d270a062094bf730ce23953765d_MD5.webp
+  - ../MetaData_Shop/resources/605901436098572/ef667589f8eb118436231df61d44bf97_MD5.webp
 personal_gallery:
   - ../Attachments/Miniatures_Gallery/605866086470474/20260508_112048.webp
   - ../Attachments/Miniatures_Gallery/605866086470474/20260526_171151.webp
   - ../Attachments/Miniatures_Gallery/605866086470474/20260526_171118.webp
   - ../Attachments/Miniatures_Gallery/605866086470474/20260526_171127.webp
   - ../Attachments/Miniatures_Gallery/605866086470474/20260526_171139.webp
-PUB_IMG_Icon: ../MetaData_Shop/_resources/605866086470474/d5013d270a062094bf730ce23953765d_MD5.webp
+PUB_IMG_Icon: ../MetaData_Shop/resources/605866086470474/d5013d270a062094bf730ce23953765d_MD5.webp
 last_sync: 5/29/2026, 8:55:54 PM
 ---
 

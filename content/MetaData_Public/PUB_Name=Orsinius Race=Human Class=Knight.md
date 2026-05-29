@@ -20,14 +20,14 @@ weapons:
   - Spear
 other_details: []
 official_gallery:
-  - ../MetaData_Shop/_resources/1899943799/2974b31a73e1a1935fdffd97003ca4a4_MD5.webp
-  - ../MetaData_Shop/_resources/4322915647/0f2c9b9535a7f6bc7ffb3ea1fe08005c_MD5.webp
-  - ../MetaData_Shop/_resources/601100833550562/9abc0930e1dd828e27d20a439f1bfed6_MD5.webp
-  - ../MetaData_Shop/_resources/606275249216949/bdbb95d3ae0fc86645f87529a5629ea0_MD5.webp
-  - ../MetaData_Shop/_resources/606312461105889/4b67f8b2cd65b52e45564a2dcd1b3b5a_MD5.webp
+  - ../MetaData_Shop/resources/1899943799/2974b31a73e1a1935fdffd97003ca4a4_MD5.webp
+  - ../MetaData_Shop/resources/4322915647/0f2c9b9535a7f6bc7ffb3ea1fe08005c_MD5.webp
+  - ../MetaData_Shop/resources/601100833550562/9abc0930e1dd828e27d20a439f1bfed6_MD5.webp
+  - ../MetaData_Shop/resources/606275249216949/bdbb95d3ae0fc86645f87529a5629ea0_MD5.webp
+  - ../MetaData_Shop/resources/606312461105889/4b67f8b2cd65b52e45564a2dcd1b3b5a_MD5.webp
 personal_gallery:
   - ../Attachments/Miniatures_Gallery/606312461105889/20260505_112645.webp
-PUB_IMG_Icon: ../MetaData_Shop/_resources/1899943799/2974b31a73e1a1935fdffd97003ca4a4_MD5.webp
+PUB_IMG_Icon: ../MetaData_Shop/resources/1899943799/2974b31a73e1a1935fdffd97003ca4a4_MD5.webp
 last_sync: 5/29/2026, 8:56:35 PM
 ---
 

@@ -18,7 +18,7 @@ weapons:
   - No_weapon
 other_details: []
 official_gallery:
-  - ../MetaData_Shop/_resources/606005807165442/c8f0f1888e448fa233dfba92056e841f_MD5.webp
+  - ../MetaData_Shop/resources/606005807165442/c8f0f1888e448fa233dfba92056e841f_MD5.webp
 personal_gallery:
   - ../Attachments/Miniatures_Gallery/606005807165442/20260325_143522.webp
   - ../Attachments/Miniatures_Gallery/606005807165442/20260526_151523.webp
@@ -29,7 +29,7 @@ personal_gallery:
   - ../Attachments/Miniatures_Gallery/606005807165442/20260526_151746.webp
   - ../Attachments/Miniatures_Gallery/606005807165442/20260526_151813.webp
   - ../Attachments/Miniatures_Gallery/606005807165442/20260526_151848.webp
-PUB_IMG_Icon: ../MetaData_Shop/_resources/606005807165442/c8f0f1888e448fa233dfba92056e841f_MD5.webp
+PUB_IMG_Icon: ../MetaData_Shop/resources/606005807165442/c8f0f1888e448fa233dfba92056e841f_MD5.webp
 last_sync: 5/29/2026, 8:56:49 PM
 ---
 

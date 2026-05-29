@@ -19,11 +19,11 @@ weapons:
   - Sword
 other_details: []
 official_gallery:
-  - ../MetaData_Shop/_resources/606008676038143/c700c025319ac65663de087247ffb892_MD5.webp
+  - ../MetaData_Shop/resources/606008676038143/c700c025319ac65663de087247ffb892_MD5.webp
 personal_gallery:
   - ../Attachments/Miniatures_Gallery/606008676038143/20260518_160725.webp
   - ../Attachments/Miniatures_Gallery/606008676038143/20260518_160739.webp
-PUB_IMG_Icon: ../MetaData_Shop/_resources/606008676038143/c700c025319ac65663de087247ffb892_MD5.webp
+PUB_IMG_Icon: ../MetaData_Shop/resources/606008676038143/c700c025319ac65663de087247ffb892_MD5.webp
 last_sync: 5/29/2026, 8:56:10 PM
 ---
 
