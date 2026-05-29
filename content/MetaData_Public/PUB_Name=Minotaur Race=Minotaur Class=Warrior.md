@@ -21,17 +21,17 @@ weapons:
   - Axe
 other_details: []
 official_gallery:
-  - /MetaData_Shop/_resources/1896855339/4fd03caa627de25e5f50f4404368c306_MD5.webp
-  - /MetaData_Shop/_resources/1899938059/37dae83ff3d961cfb3837785faecebe8_MD5.webp
-  - /MetaData_Shop/_resources/1905675515/6c6d1abc19735948b6d682e9323c131a_MD5.webp
-  - /MetaData_Shop/_resources/4371862554/507a93c7726a71b3c907d642979f30f2_MD5.webp
-  - /MetaData_Shop/_resources/601105621891179/41694ae8afd0c66f1b86c9b4f6e3e4da_MD5.avif
-  - /MetaData_Shop/_resources/605534837165414/2e80a4d53d552ed5ba5fd1a5c6d57731_MD5.avif
-  - /MetaData_Shop/_resources/605979601152943/f2eb0e028f550fa5d7d037f8cffe9494_MD5.avif
+  - ../MetaData_Shop/_resources/1896855339/4fd03caa627de25e5f50f4404368c306_MD5.webp
+  - ../MetaData_Shop/_resources/1899938059/37dae83ff3d961cfb3837785faecebe8_MD5.webp
+  - ../MetaData_Shop/_resources/1905675515/6c6d1abc19735948b6d682e9323c131a_MD5.webp
+  - ../MetaData_Shop/_resources/4371862554/507a93c7726a71b3c907d642979f30f2_MD5.webp
+  - ../MetaData_Shop/_resources/601105621891179/41694ae8afd0c66f1b86c9b4f6e3e4da_MD5.avif
+  - ../MetaData_Shop/_resources/605534837165414/2e80a4d53d552ed5ba5fd1a5c6d57731_MD5.avif
+  - ../MetaData_Shop/_resources/605979601152943/f2eb0e028f550fa5d7d037f8cffe9494_MD5.avif
 personal_gallery:
-  - /Attachments/Miniatures_Gallery/605979601152943/20260422_170601.webp
-  - /Attachments/Miniatures_Gallery/605979601152943/20260422_170620.webp
-PUB_IMG_Icon: /MetaData_Shop/_resources/1896855339/4fd03caa627de25e5f50f4404368c306_MD5.webp
+  - ../Attachments/Miniatures_Gallery/605979601152943/20260422_170601.webp
+  - ../Attachments/Miniatures_Gallery/605979601152943/20260422_170620.webp
+PUB_IMG_Icon: ../MetaData_Shop/_resources/1896855339/4fd03caa627de25e5f50f4404368c306_MD5.webp
 last_sync: 5/29/2026, 8:56:29 PM
 ---
 

@@ -22,16 +22,16 @@ weapons:
 other_details:
   - has_pets
 official_gallery:
-  - /MetaData_Shop/_resources/1591622590/e7f9ff27ba64bea3013cfa56b8f740de_MD5.webp
-  - /MetaData_Shop/_resources/601100286131155/b79674f62ca153f118975f39266b103f_MD5.avif
-  - /MetaData_Shop/_resources/601100831426134/881dc8a42cc0c34a094b918c026d990b_MD5.avif
-  - /MetaData_Shop/_resources/601103988842211/8c2122d538b99aa8aaad499cd685041f_MD5.avif
-  - /MetaData_Shop/_resources/601105445583103/380dd31c653ba23adb53df52111e123e_MD5.avif
-  - /MetaData_Shop/_resources/606184585163977/783af8fff22856846b0bb1b31aa8e919_MD5.avif
+  - ../MetaData_Shop/_resources/1591622590/e7f9ff27ba64bea3013cfa56b8f740de_MD5.webp
+  - ../MetaData_Shop/_resources/601100286131155/b79674f62ca153f118975f39266b103f_MD5.avif
+  - ../MetaData_Shop/_resources/601100831426134/881dc8a42cc0c34a094b918c026d990b_MD5.avif
+  - ../MetaData_Shop/_resources/601103988842211/8c2122d538b99aa8aaad499cd685041f_MD5.avif
+  - ../MetaData_Shop/_resources/601105445583103/380dd31c653ba23adb53df52111e123e_MD5.avif
+  - ../MetaData_Shop/_resources/606184585163977/783af8fff22856846b0bb1b31aa8e919_MD5.avif
 personal_gallery:
-  - /Attachments/Miniatures_Gallery/601100831426134/20260402_105204.webp
-  - /Attachments/Miniatures_Gallery/601100831426134/20260402_105222.webp
-PUB_IMG_Icon: /MetaData_Shop/_resources/1591622590/e7f9ff27ba64bea3013cfa56b8f740de_MD5.webp
+  - ../Attachments/Miniatures_Gallery/601100831426134/20260402_105204.webp
+  - ../Attachments/Miniatures_Gallery/601100831426134/20260402_105222.webp
+PUB_IMG_Icon: ../MetaData_Shop/_resources/1591622590/e7f9ff27ba64bea3013cfa56b8f740de_MD5.webp
 last_sync: 5/29/2026, 8:56:58 PM
 ---
 

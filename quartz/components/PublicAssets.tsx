@@ -1,5 +1,6 @@
 import { QuartzComponent, QuartzComponentConstructor, QuartzComponentProps } from "./types"
 import { classNames } from "../util/lang"
+import { pathToRoot } from "../util/path" // 🛠️ Import path resolution utilities
 
 export default ((userOpts?: any) => {
   const PublicAssets: QuartzComponent = ({ fileData, displayClass }: QuartzComponentProps) => {
@@ -15,6 +16,25 @@ export default ((userOpts?: any) => {
     const personalGallery = prepImgs(fm.personal_gallery)
 
     if (officialGallery.length === 0 && personalGallery.length === 0) return null
+
+    // 1. Calculate relative structural directory back to root
+    const baseDir = pathToRoot(fileData.slug!)
+
+    // 2. Helper function to sanitize and map paths cleanly to quartz/static/
+    const resolveImgSrc = (rawPath: string) => {
+      let cleanPath = rawPath.trim()
+      
+      // Auto-swap extension to match optimized webp files
+      if (/\.(png|jpg|jpeg)$/i.test(cleanPath)) {
+        cleanPath = cleanPath.replace(/\.(png|jpg|jpeg)$/i, '.webp')
+      }
+      
+      // Strip any accidental leading relative markers or slashes
+      cleanPath = cleanPath.replace(/^(\.\.\/|\.\/|\/)+/, "")
+      
+      // 👉 Change this to `${baseDir}/${cleanPath}` if you choose to keep images in content/
+      return `${baseDir}/static/${cleanPath}`
+    }
 
     const boxWidth = 300
     const boxHeight = 450
@@ -72,7 +92,7 @@ export default ((userOpts?: any) => {
             overflow-x: scroll !important; 
             overflow-y: hidden !important;
             gap: 15px; 
-            height: ${boxHeight + 40}px !important; /* Extra room for scrollbar */
+            height: ${boxHeight + 40}px !important; 
             padding-bottom: 20px !important;
             width: 100%;
             -webkit-overflow-scrolling: touch;
@@ -104,7 +124,10 @@ export default ((userOpts?: any) => {
 
         <div class="pub-asset-grid">
           <div class="asset-col">
-            <div style="font-weight:bold; color:var(--gray); text-transform:uppercase; font-size:0.7em; margin-bottom:10px;">Official Gallery</div>
+            {/* 🛠️ Fixed Style: String converted to a valid JSX Object */}
+            <div style={{ fontWeight: "bold", color: "var(--gray)", textTransform: "uppercase", fontSize: "0.7em", marginBottom: "10px" }}>
+              Official Gallery
+            </div>
             <div class="carousel-box">
               {officialGallery.length > 0 ? (
                 <div 
@@ -114,20 +137,23 @@ export default ((userOpts?: any) => {
                   }}
                 >
                   {officialGallery.map((u) => (
-                    <img src={u} class="carousel-item" />
+                    <img src={resolveImgSrc(u)} class="carousel-item" alt="Official Gallery Item" />
                   ))}
                 </div>
               ) : (
                 <div style={{ color: "gray", padding: "20px", textAlign: "center" }}>No Reference Image</div>
-              )}
+              ) }
             </div>
           </div>
 
           <div class="asset-col">
-            <div style="font-weight:bold; color:var(--gray); text-transform:uppercase; font-size:0.7em; margin-bottom:10px;">My Collection</div>
+            {/* 🛠️ Fixed Style: String converted to a valid JSX Object */}
+            <div style={{ fontWeight: "bold", color: "var(--gray)", textTransform: "uppercase", fontSize: "0.7em", marginBottom: "10px" }}>
+              My Collection
+            </div>
             <div class="personal-scroll">
               {personalGallery.map((u) => (
-                <img src={u} class="personal-img" />
+                <img src={resolveImgSrc(u)} class="personal-img" alt="Personal Collection Item" />
               ))}
             </div>
           </div>

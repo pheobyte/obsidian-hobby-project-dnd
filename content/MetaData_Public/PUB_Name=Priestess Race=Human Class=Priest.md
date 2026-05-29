@@ -19,11 +19,11 @@ weapons:
   - Book
 other_details: []
 official_gallery:
-  - /MetaData_Shop/_resources/4455988891/a17edeeccf46942de93e9d097dde532f_MD5.webp
-  - /MetaData_Shop/_resources/601099773803076/b71441785bac01d6328c6669c1840dd6_MD5.avif
+  - ../MetaData_Shop/_resources/4455988891/a17edeeccf46942de93e9d097dde532f_MD5.webp
+  - ../MetaData_Shop/_resources/601099773803076/b71441785bac01d6328c6669c1840dd6_MD5.avif
 personal_gallery:
-  - /Attachments/Miniatures_Gallery/601099773803076/20260325_140952.webp
-PUB_IMG_Icon: /MetaData_Shop/_resources/4455988891/a17edeeccf46942de93e9d097dde532f_MD5.webp
+  - ../Attachments/Miniatures_Gallery/601099773803076/20260325_140952.webp
+PUB_IMG_Icon: ../MetaData_Shop/_resources/4455988891/a17edeeccf46942de93e9d097dde532f_MD5.webp
 last_sync: 5/29/2026, 8:56:36 PM
 ---
 

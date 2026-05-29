@@ -18,11 +18,11 @@ weapons:
   - Shield
 other_details: []
 official_gallery:
-  - /MetaData_Shop/_resources/605695764172698/844d91350b2211005c466123190a1ef4_MD5.avif
+  - ../MetaData_Shop/_resources/605695764172698/844d91350b2211005c466123190a1ef4_MD5.avif
 personal_gallery:
-  - /Attachments/Miniatures_Gallery/605695764172698/20260429_113032.webp
-  - /Attachments/Miniatures_Gallery/605695764172698/20260429_113053.webp
-PUB_IMG_Icon: /MetaData_Shop/_resources/605695764172698/844d91350b2211005c466123190a1ef4_MD5.avif
+  - ../Attachments/Miniatures_Gallery/605695764172698/20260429_113032.webp
+  - ../Attachments/Miniatures_Gallery/605695764172698/20260429_113053.webp
+PUB_IMG_Icon: ../MetaData_Shop/_resources/605695764172698/844d91350b2211005c466123190a1ef4_MD5.avif
 last_sync: 5/29/2026, 8:56:43 PM
 ---
 

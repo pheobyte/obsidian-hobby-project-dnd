@@ -17,14 +17,14 @@ weapons:
   - Other
 other_details: []
 official_gallery:
-  - /MetaData_Shop/_resources/601104895560637/d660a76f2df71fa5b3df3462a17ec283_MD5.avif
+  - ../MetaData_Shop/_resources/601104895560637/d660a76f2df71fa5b3df3462a17ec283_MD5.avif
 personal_gallery:
-  - /Attachments/Miniatures_Gallery/601104895560637/20260424_093823.webp
-  - /Attachments/Miniatures_Gallery/601104895560637/20260424_093842.webp
-  - /Attachments/Miniatures_Gallery/601104895560637/20260516_124840.webp
-  - /Attachments/Miniatures_Gallery/601104895560637/20260516_124830.webp
-  - /Attachments/Miniatures_Gallery/601104895560637/20260528_121706.webp
-PUB_IMG_Icon: /MetaData_Shop/_resources/601104895560637/d660a76f2df71fa5b3df3462a17ec283_MD5.avif
+  - ../Attachments/Miniatures_Gallery/601104895560637/20260424_093823.webp
+  - ../Attachments/Miniatures_Gallery/601104895560637/20260424_093842.webp
+  - ../Attachments/Miniatures_Gallery/601104895560637/20260516_124840.webp
+  - ../Attachments/Miniatures_Gallery/601104895560637/20260516_124830.webp
+  - ../Attachments/Miniatures_Gallery/601104895560637/20260528_121706.webp
+PUB_IMG_Icon: ../MetaData_Shop/_resources/601104895560637/d660a76f2df71fa5b3df3462a17ec283_MD5.avif
 last_sync: 5/29/2026, 8:56:21 PM
 ---
 

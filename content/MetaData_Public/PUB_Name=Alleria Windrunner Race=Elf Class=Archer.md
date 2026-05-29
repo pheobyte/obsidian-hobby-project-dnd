@@ -20,11 +20,11 @@ weapons:
   - Bow
 other_details: []
 official_gallery:
-  - /MetaData_Shop/_resources/605953797799327/887e9639647504f28ad2777b10a88bd5_MD5.avif
+  - ../MetaData_Shop/_resources/605953797799327/887e9639647504f28ad2777b10a88bd5_MD5.avif
 personal_gallery:
-  - /Attachments/Miniatures_Gallery/605953797799327/20260408_125652.webp
-  - /Attachments/Miniatures_Gallery/605953797799327/20260408_125721.webp
-PUB_IMG_Icon: /MetaData_Shop/_resources/605953797799327/887e9639647504f28ad2777b10a88bd5_MD5.avif
+  - ../Attachments/Miniatures_Gallery/605953797799327/20260408_125652.webp
+  - ../Attachments/Miniatures_Gallery/605953797799327/20260408_125721.webp
+PUB_IMG_Icon: ../MetaData_Shop/_resources/605953797799327/887e9639647504f28ad2777b10a88bd5_MD5.avif
 last_sync: 5/29/2026, 8:55:55 PM
 ---
 

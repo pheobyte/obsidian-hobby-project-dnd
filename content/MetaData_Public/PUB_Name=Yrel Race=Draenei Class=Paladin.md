@@ -19,11 +19,11 @@ weapons:
   - Hammer
 other_details: []
 official_gallery:
-  - /MetaData_Shop/_resources/601105279486899/7e0214f893676c17598696c08b2723ce_MD5.avif
+  - ../MetaData_Shop/_resources/601105279486899/7e0214f893676c17598696c08b2723ce_MD5.avif
 personal_gallery:
-  - /Attachments/Miniatures_Gallery/601105279486899/20260429_111851.webp
-  - /Attachments/Miniatures_Gallery/601105279486899/20260429_111923.webp
-PUB_IMG_Icon: /MetaData_Shop/_resources/601105279486899/7e0214f893676c17598696c08b2723ce_MD5.avif
+  - ../Attachments/Miniatures_Gallery/601105279486899/20260429_111851.webp
+  - ../Attachments/Miniatures_Gallery/601105279486899/20260429_111923.webp
+PUB_IMG_Icon: ../MetaData_Shop/_resources/601105279486899/7e0214f893676c17598696c08b2723ce_MD5.avif
 last_sync: 5/29/2026, 8:56:56 PM
 ---
 

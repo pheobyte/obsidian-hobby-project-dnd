@@ -18,10 +18,10 @@ weapons:
   - Polearm
 other_details: []
 official_gallery:
-  - /MetaData_Shop/_resources/601104658212906/ff709f32ddfab8db6cb88767f70f675e_MD5.avif
+  - ../MetaData_Shop/_resources/601104658212906/ff709f32ddfab8db6cb88767f70f675e_MD5.avif
 personal_gallery:
-  - /Attachments/Miniatures_Gallery/601104658212906/20260505_112239.webp
-PUB_IMG_Icon: /MetaData_Shop/_resources/601104658212906/ff709f32ddfab8db6cb88767f70f675e_MD5.avif
+  - ../Attachments/Miniatures_Gallery/601104658212906/20260505_112239.webp
+PUB_IMG_Icon: ../MetaData_Shop/_resources/601104658212906/ff709f32ddfab8db6cb88767f70f675e_MD5.avif
 last_sync: 5/29/2026, 8:56:27 PM
 ---
 

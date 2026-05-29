@@ -18,14 +18,14 @@ weapons:
 other_details:
   - has_wings
 official_gallery:
-  - /MetaData_Shop/_resources/605521683829169/3d9626fd3d12ecb183173eb0ff8fb60a_MD5.avif
-  - /MetaData_Shop/_resources/605874005322606/a231067bb4125fd5405e6f5c30529cba_MD5.avif
-  - /MetaData_Shop/_resources/605899909341510/bb4232e50421587e147c8e9dd6e49934_MD5.avif
-  - /MetaData_Shop/_resources/606504560218080/ab51490331d2517d5a4d5dd33f2ba349_MD5.avif
+  - ../MetaData_Shop/_resources/605521683829169/3d9626fd3d12ecb183173eb0ff8fb60a_MD5.avif
+  - ../MetaData_Shop/_resources/605874005322606/a231067bb4125fd5405e6f5c30529cba_MD5.avif
+  - ../MetaData_Shop/_resources/605899909341510/bb4232e50421587e147c8e9dd6e49934_MD5.avif
+  - ../MetaData_Shop/_resources/606504560218080/ab51490331d2517d5a4d5dd33f2ba349_MD5.avif
 personal_gallery:
-  - /Attachments/Miniatures_Gallery/605521683829169/20260429_104827.webp
-  - /Attachments/Miniatures_Gallery/605521683829169/20260429_104901.webp
-PUB_IMG_Icon: /MetaData_Shop/_resources/605521683829169/3d9626fd3d12ecb183173eb0ff8fb60a_MD5.avif
+  - ../Attachments/Miniatures_Gallery/605521683829169/20260429_104827.webp
+  - ../Attachments/Miniatures_Gallery/605521683829169/20260429_104901.webp
+PUB_IMG_Icon: ../MetaData_Shop/_resources/605521683829169/3d9626fd3d12ecb183173eb0ff8fb60a_MD5.avif
 last_sync: 5/29/2026, 8:56:43 PM
 ---
 

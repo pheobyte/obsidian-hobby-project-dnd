@@ -19,13 +19,13 @@ weapons:
   - Mace
 other_details: []
 official_gallery:
-  - /MetaData_Shop/_resources/606255636685129/57ba5d6adda1ccc6bd3d76633b226201_MD5.webp
+  - ../MetaData_Shop/_resources/606255636685129/57ba5d6adda1ccc6bd3d76633b226201_MD5.webp
 personal_gallery:
-  - /Attachments/Miniatures_Gallery/606255636685129/20260505_100842.webp
-  - /Attachments/Miniatures_Gallery/606255636685129/20260526_164227.webp
-  - /Attachments/Miniatures_Gallery/606255636685129/20260526_164203.webp
-  - /Attachments/Miniatures_Gallery/606255636685129/20260526_164218.webp
-PUB_IMG_Icon: /MetaData_Shop/_resources/606255636685129/57ba5d6adda1ccc6bd3d76633b226201_MD5.webp
+  - ../Attachments/Miniatures_Gallery/606255636685129/20260505_100842.webp
+  - ../Attachments/Miniatures_Gallery/606255636685129/20260526_164227.webp
+  - ../Attachments/Miniatures_Gallery/606255636685129/20260526_164203.webp
+  - ../Attachments/Miniatures_Gallery/606255636685129/20260526_164218.webp
+PUB_IMG_Icon: ../MetaData_Shop/_resources/606255636685129/57ba5d6adda1ccc6bd3d76633b226201_MD5.webp
 last_sync: 5/29/2026, 8:55:59 PM
 ---
 

@@ -16,11 +16,11 @@ weapons:
   - No_weapon
 other_details: []
 official_gallery:
-  - /MetaData_Shop/_resources/606349471616379/f7c82c4a10eaaeaf2cc511b00b3345b4_MD5.avif
+  - ../MetaData_Shop/_resources/606349471616379/f7c82c4a10eaaeaf2cc511b00b3345b4_MD5.avif
 personal_gallery:
-  - /Attachments/Miniatures_Gallery/606349471616379/20260408_120725.webp
-  - /Attachments/Miniatures_Gallery/606349471616379/20260408_120820.webp
-PUB_IMG_Icon: /MetaData_Shop/_resources/606349471616379/f7c82c4a10eaaeaf2cc511b00b3345b4_MD5.avif
+  - ../Attachments/Miniatures_Gallery/606349471616379/20260408_120725.webp
+  - ../Attachments/Miniatures_Gallery/606349471616379/20260408_120820.webp
+PUB_IMG_Icon: ../MetaData_Shop/_resources/606349471616379/f7c82c4a10eaaeaf2cc511b00b3345b4_MD5.avif
 last_sync: 5/29/2026, 8:56:30 PM
 ---
 

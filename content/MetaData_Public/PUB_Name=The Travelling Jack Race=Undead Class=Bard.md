@@ -19,16 +19,16 @@ weapons:
   - Musical Instrument
 other_details: []
 official_gallery:
-  - /MetaData_Shop/_resources/1629123545/508b5391dc96c37bce191e2c2f1248c8_MD5.webp
-  - /MetaData_Shop/_resources/1745240843/e1269475102bd8db20358735acf214d5_MD5.webp
-  - /MetaData_Shop/_resources/4429198120/57087071b60080e79c68dc3bc49b3c4a_MD5.webp
-  - /MetaData_Shop/_resources/605701938209205/9d9cf7de0be85e79aa824891bfdf124b_MD5.avif
-  - /MetaData_Shop/_resources/606097259743267/950c6c8df4664ed605db2ae31dd6b86d_MD5.avif
-  - /MetaData_Shop/_resources/606297864936654/6375973427268a0471c855eed4ece2af_MD5.avif
+  - ../MetaData_Shop/_resources/1629123545/508b5391dc96c37bce191e2c2f1248c8_MD5.webp
+  - ../MetaData_Shop/_resources/1745240843/e1269475102bd8db20358735acf214d5_MD5.webp
+  - ../MetaData_Shop/_resources/4429198120/57087071b60080e79c68dc3bc49b3c4a_MD5.webp
+  - ../MetaData_Shop/_resources/605701938209205/9d9cf7de0be85e79aa824891bfdf124b_MD5.avif
+  - ../MetaData_Shop/_resources/606097259743267/950c6c8df4664ed605db2ae31dd6b86d_MD5.avif
+  - ../MetaData_Shop/_resources/606297864936654/6375973427268a0471c855eed4ece2af_MD5.avif
 personal_gallery:
-  - /Attachments/Miniatures_Gallery/605701938209205/20260420_180602.webp
-  - /Attachments/Miniatures_Gallery/605701938209205/20260420_180634.webp
-PUB_IMG_Icon: /MetaData_Shop/_resources/1629123545/508b5391dc96c37bce191e2c2f1248c8_MD5.webp
+  - ../Attachments/Miniatures_Gallery/605701938209205/20260420_180602.webp
+  - ../Attachments/Miniatures_Gallery/605701938209205/20260420_180634.webp
+PUB_IMG_Icon: ../MetaData_Shop/_resources/1629123545/508b5391dc96c37bce191e2c2f1248c8_MD5.webp
 last_sync: 5/29/2026, 8:56:44 PM
 ---
 

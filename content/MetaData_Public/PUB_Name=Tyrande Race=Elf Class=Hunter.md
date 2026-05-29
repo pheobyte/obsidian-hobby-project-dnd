@@ -19,13 +19,13 @@ weapons:
   - Warglaive
 other_details: []
 official_gallery:
-  - /MetaData_Shop/_resources/605543024432132/ece92ef4da1e97e4371565c49a2cfffe_MD5.avif
-  - /MetaData_Shop/_resources/606319675340851/260c70e7b390266ead753fa1f3ae9d03_MD5.avif
+  - ../MetaData_Shop/_resources/605543024432132/ece92ef4da1e97e4371565c49a2cfffe_MD5.avif
+  - ../MetaData_Shop/_resources/606319675340851/260c70e7b390266ead753fa1f3ae9d03_MD5.avif
 personal_gallery:
-  - /Attachments/Miniatures_Gallery/606319675340851/20260410_131827.webp
-  - /Attachments/Miniatures_Gallery/606319675340851/20260410_131842.webp
-  - /Attachments/Miniatures_Gallery/606319675340851/20260410_131904.webp
-PUB_IMG_Icon: /MetaData_Shop/_resources/605543024432132/ece92ef4da1e97e4371565c49a2cfffe_MD5.avif
+  - ../Attachments/Miniatures_Gallery/606319675340851/20260410_131827.webp
+  - ../Attachments/Miniatures_Gallery/606319675340851/20260410_131842.webp
+  - ../Attachments/Miniatures_Gallery/606319675340851/20260410_131904.webp
+PUB_IMG_Icon: ../MetaData_Shop/_resources/605543024432132/ece92ef4da1e97e4371565c49a2cfffe_MD5.avif
 last_sync: 5/29/2026, 8:56:47 PM
 ---
 

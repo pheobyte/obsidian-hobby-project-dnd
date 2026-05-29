@@ -21,15 +21,15 @@ weapons:
 other_details:
   - has_pets
 official_gallery:
-  - /MetaData_Shop/_resources/601101022902043/58e12d4ed99785100d7581134c5d8ef9_MD5.avif
+  - ../MetaData_Shop/_resources/601101022902043/58e12d4ed99785100d7581134c5d8ef9_MD5.avif
 personal_gallery:
-  - /Attachments/Miniatures_Gallery/601101022902043/20260410_132654.webp
-  - /Attachments/Miniatures_Gallery/601101022902043/20260526_162651.webp
-  - /Attachments/Miniatures_Gallery/601101022902043/20260526_162556.webp
-  - /Attachments/Miniatures_Gallery/601101022902043/20260526_162607.webp
-  - /Attachments/Miniatures_Gallery/601101022902043/20260526_162623.webp
-  - /Attachments/Miniatures_Gallery/601101022902043/20260526_162637.webp
-PUB_IMG_Icon: /MetaData_Shop/_resources/601101022902043/58e12d4ed99785100d7581134c5d8ef9_MD5.avif
+  - ../Attachments/Miniatures_Gallery/601101022902043/20260410_132654.webp
+  - ../Attachments/Miniatures_Gallery/601101022902043/20260526_162651.webp
+  - ../Attachments/Miniatures_Gallery/601101022902043/20260526_162556.webp
+  - ../Attachments/Miniatures_Gallery/601101022902043/20260526_162607.webp
+  - ../Attachments/Miniatures_Gallery/601101022902043/20260526_162623.webp
+  - ../Attachments/Miniatures_Gallery/601101022902043/20260526_162637.webp
+PUB_IMG_Icon: ../MetaData_Shop/_resources/601101022902043/58e12d4ed99785100d7581134c5d8ef9_MD5.avif
 last_sync: 5/29/2026, 8:56:16 PM
 ---
 

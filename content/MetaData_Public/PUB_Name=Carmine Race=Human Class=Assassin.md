@@ -20,13 +20,13 @@ weapons:
   - No_weapon
 other_details: []
 official_gallery:
-  - /MetaData_Shop/_resources/4372002941/b13e826dfb3fc0d2fbb5e93e7fdfc534_MD5.webp
-  - /MetaData_Shop/_resources/4383223838/30e22fa75046e634e8d23f10e664b73a_MD5.webp
-  - /MetaData_Shop/_resources/605522354908121/291dd97be174047b11989bc6661f7b69_MD5.avif
+  - ../MetaData_Shop/_resources/4372002941/b13e826dfb3fc0d2fbb5e93e7fdfc534_MD5.webp
+  - ../MetaData_Shop/_resources/4383223838/30e22fa75046e634e8d23f10e664b73a_MD5.webp
+  - ../MetaData_Shop/_resources/605522354908121/291dd97be174047b11989bc6661f7b69_MD5.avif
 personal_gallery:
-  - /Attachments/Miniatures_Gallery/605522354908121/20260424_105330.webp
-  - /Attachments/Miniatures_Gallery/605522354908121/20260424_105345.webp
-PUB_IMG_Icon: /MetaData_Shop/_resources/4372002941/b13e826dfb3fc0d2fbb5e93e7fdfc534_MD5.webp
+  - ../Attachments/Miniatures_Gallery/605522354908121/20260424_105330.webp
+  - ../Attachments/Miniatures_Gallery/605522354908121/20260424_105345.webp
+PUB_IMG_Icon: ../MetaData_Shop/_resources/4372002941/b13e826dfb3fc0d2fbb5e93e7fdfc534_MD5.webp
 last_sync: 5/29/2026, 8:56:03 PM
 ---
 

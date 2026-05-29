@@ -15,13 +15,13 @@ weapons:
   - Sword
 other_details: []
 official_gallery:
-  - /MetaData_Shop/_resources/605568978774041/ccac2ff9885666495d8e80ac0ce048da_MD5.avif
-  - /MetaData_Shop/_resources/606497446694908/96a8d28a50e0cfa6cfad1baff3d65560_MD5.avif
-  - /MetaData_Shop/_resources/606540530584544/dfd262e26abd857ea4aae76315290444_MD5.avif
+  - ../MetaData_Shop/_resources/605568978774041/ccac2ff9885666495d8e80ac0ce048da_MD5.avif
+  - ../MetaData_Shop/_resources/606497446694908/96a8d28a50e0cfa6cfad1baff3d65560_MD5.avif
+  - ../MetaData_Shop/_resources/606540530584544/dfd262e26abd857ea4aae76315290444_MD5.avif
 personal_gallery:
-  - /Attachments/Miniatures_Gallery/606497446694908/20260424_105642.webp
-  - /Attachments/Miniatures_Gallery/606497446694908/20260424_105653.webp
-PUB_IMG_Icon: /MetaData_Shop/_resources/605568978774041/ccac2ff9885666495d8e80ac0ce048da_MD5.avif
+  - ../Attachments/Miniatures_Gallery/606497446694908/20260424_105642.webp
+  - ../Attachments/Miniatures_Gallery/606497446694908/20260424_105653.webp
+PUB_IMG_Icon: ../MetaData_Shop/_resources/605568978774041/ccac2ff9885666495d8e80ac0ce048da_MD5.avif
 last_sync: 5/29/2026, 8:57:01 PM
 ---
 

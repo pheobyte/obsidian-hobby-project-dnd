@@ -18,15 +18,15 @@ weapons:
   - No_weapon
 other_details: []
 official_gallery:
-  - /MetaData_Shop/_resources/601104942498919/03e09afe593d10d47553c59673abff6f_MD5.avif
+  - ../MetaData_Shop/_resources/601104942498919/03e09afe593d10d47553c59673abff6f_MD5.avif
 personal_gallery:
-  - /Attachments/Miniatures_Gallery/601104942498919/20260325_150440.webp
-  - /Attachments/Miniatures_Gallery/601104942498919/20260526_162821.webp
-  - /Attachments/Miniatures_Gallery/601104942498919/20260526_162807.webp
-  - /Attachments/Miniatures_Gallery/601104942498919/20260526_162755.webp
-  - /Attachments/Miniatures_Gallery/601104942498919/20260526_162741.webp
-  - /Attachments/Miniatures_Gallery/601104942498919/20260526_162845.webp
-PUB_IMG_Icon: /MetaData_Shop/_resources/601104942498919/03e09afe593d10d47553c59673abff6f_MD5.avif
+  - ../Attachments/Miniatures_Gallery/601104942498919/20260325_150440.webp
+  - ../Attachments/Miniatures_Gallery/601104942498919/20260526_162821.webp
+  - ../Attachments/Miniatures_Gallery/601104942498919/20260526_162807.webp
+  - ../Attachments/Miniatures_Gallery/601104942498919/20260526_162755.webp
+  - ../Attachments/Miniatures_Gallery/601104942498919/20260526_162741.webp
+  - ../Attachments/Miniatures_Gallery/601104942498919/20260526_162845.webp
+PUB_IMG_Icon: ../MetaData_Shop/_resources/601104942498919/03e09afe593d10d47553c59673abff6f_MD5.avif
 last_sync: 5/29/2026, 8:56:39 PM
 ---
 
