@@ -1,12 +1,13 @@
 ---
 qty: 1
-name: REF_0011 FIG Ravenlord_1
-race: "-"
-class: "-"
+name: Name=Grimnir Ravenlord Race=Human Class=Wizard
+race: Human
+class: Wizard
 tags:
-  - caster
-  - nature
-  - ravenlord
+  - Grimnir
+  - Ravenlord
+  - Wizard
+  - Prophet
 is_set: false
 is_nsfw: false
 sizes:
@@ -32,7 +33,7 @@ personal_gallery:
   - ../Attachments/Miniatures_Gallery/601100831426134/20260402_105204.webp
   - ../Attachments/Miniatures_Gallery/601100831426134/20260402_105222.webp
 PUB_IMG_Icon: ../MetaData_Shop/resources/1591622590/e7f9ff27ba64bea3013cfa56b8f740de_MD5.webp
-last_sync: 5/29/2026, 8:56:58 PM
+last_sync: 5/30/2026, 2:47:48 PM
 ---
 
 <div class="quartz-hidden">

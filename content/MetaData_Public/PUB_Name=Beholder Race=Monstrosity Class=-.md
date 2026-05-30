@@ -1,11 +1,11 @@
 ---
 qty: 1
-name: REF_0012 FIG Beholder_1
-race: "-"
+name: Name=Beholder Race=Monstrosity Class=-
+race: Monstrosity
 class: "-"
 tags:
-  - eye_monster
-  - beholder
+  - Beholder
+  - Eye_Demon
 is_set: false
 is_nsfw: false
 sizes:
@@ -25,7 +25,7 @@ personal_gallery:
   - ../Attachments/Miniatures_Gallery/601101903381121/20260410_131305.webp
   - ../Attachments/Miniatures_Gallery/601101903381121/20260410_131325.webp
 PUB_IMG_Icon: ../MetaData_Shop/resources/601099615255092/a11a1c5409e6ce49cfc9b61a28e9f920_MD5.webp
-last_sync: 5/29/2026, 8:56:58 PM
+last_sync: 5/30/2026, 2:46:57 PM
 ---
 
 <div class="quartz-hidden">

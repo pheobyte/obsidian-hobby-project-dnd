@@ -1,11 +1,13 @@
 ---
 qty: 2
-name: REF_0004 FIG Dragonguard_1
-race: "-"
-class: "-"
+name: Name=Dragonguard Race=Dragonkin Class=Fighter
+race: Dragonkin
+class: Fighter
 tags:
-  - male
-  - knight
+  - Dragonguard
+  - Fighter
+  - Warrior
+  - Dragonkin
 is_set: false
 is_nsfw: false
 sizes:
@@ -27,7 +29,7 @@ personal_gallery:
   - ../Attachments/Miniatures_Gallery/601099602289311/20260505_102311.webp
   - ../Attachments/Miniatures_Gallery/601099880228436/20260408_115056.webp
 PUB_IMG_Icon: ../MetaData_Shop/resources/1101398919/587983ed8dce0585397b782d7d4837ca_MD5.webp
-last_sync: 5/29/2026, 8:56:57 PM
+last_sync: 5/30/2026, 2:47:22 PM
 ---
 
 <div class="quartz-hidden">

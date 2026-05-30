@@ -1,11 +1,12 @@
 ---
 qty: 1
-name: REF_0031 FIG Angel_2
-race: "-"
-class: "-"
+name: Name=Angel Knight Race=Angel Class=Knight
+race: Angel
+class: Knight
 tags:
-  - angel
   - female
+  - Angel
+  - Knight
 is_set: false
 is_nsfw: false
 sizes:
@@ -25,7 +26,7 @@ personal_gallery:
   - ../Attachments/Miniatures_Gallery/606200557089271/20260429_113715.webp
   - ../Attachments/Miniatures_Gallery/606200557089271/20260429_113801.webp
 PUB_IMG_Icon: ../MetaData_Shop/resources/605682208243202/b966835e9d1b01935e96140db93e142c_MD5.webp
-last_sync: 5/29/2026, 8:57:00 PM
+last_sync: 5/30/2026, 2:46:42 PM
 ---
 
 <div class="quartz-hidden">

@@ -1,12 +1,13 @@
 ---
 qty: 1
-name: REF_0020 FIG Angel-Demon_1
+name: Name=The Face of Evil Demoness Race=- Class=-
 race: "-"
 class: "-"
 tags:
-  - angel
-  - demon
+  - Demon
+  - Angel
   - female
+  - Hybrid
 is_set: false
 is_nsfw: false
 sizes:
@@ -30,7 +31,7 @@ personal_gallery:
   - ../Attachments/Miniatures_Gallery/606537712015639/20260427_101545.webp
   - ../Attachments/Miniatures_Gallery/606537712015639/20260427_101517.webp
 PUB_IMG_Icon: ../MetaData_Shop/resources/4303981570/a9c0c3bff610d7150a03107f6611536e_MD5.webp
-last_sync: 5/29/2026, 8:56:59 PM
+last_sync: 5/30/2026, 2:49:05 PM
 ---
 
 <div class="quartz-hidden">

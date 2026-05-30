@@ -1,15 +1,16 @@
 ---
 qty: 1
-name: REF_0056 FIG Staff-Mage_1
-race: "-"
-class: "-"
+name: Name=Nuvian Lunar Sorcerer Race=Human Class=Sorcerer
+race: Human
+class: Sorcerer
 tags:
-  - male
-  - mage
-  - caster
+  - Nuvian
+  - Sorcerer
+  - Wizard
 is_set: false
 is_nsfw: false
 sizes:
+  - under 30 mm
   - 40 - 50 mm
 categories:
   - Humanoid
@@ -18,12 +19,13 @@ weapons:
   - Other
 other_details: []
 official_gallery:
+  - ../MetaData_Shop/resources/1593906264/4f439e716768aa211aa10eb6668ec859_MD5.webp
   - ../MetaData_Shop/resources/606184853579553/524892838ea05e2abc7a30fc6bda55ed_MD5.webp
 personal_gallery:
   - ../Attachments/Miniatures_Gallery/606184853579553/20260325_115057.webp
   - ../Attachments/Miniatures_Gallery/606184853579553/20260325_115117.webp
-PUB_IMG_Icon: ../MetaData_Shop/resources/606184853579553/524892838ea05e2abc7a30fc6bda55ed_MD5.webp
-last_sync: 5/29/2026, 8:57:03 PM
+PUB_IMG_Icon: ../MetaData_Shop/resources/1593906264/4f439e716768aa211aa10eb6668ec859_MD5.webp
+last_sync: 5/30/2026, 2:48:28 PM
 ---
 
 <div class="quartz-hidden">

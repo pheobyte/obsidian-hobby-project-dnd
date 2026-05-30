@@ -1,10 +1,12 @@
 ---
 qty: 1
-name: REF_0040 FIG Sword_Master_1
-race: "-"
-class: "-"
+name: Name=Sword Master Race=Human Class=Fighter
+race: Human
+class: Fighter
 tags:
-  - male
+  - SwordMaster
+  - Fighter
+  - Warrior
 is_set: false
 is_nsfw: false
 sizes:
@@ -22,7 +24,7 @@ personal_gallery:
   - ../Attachments/Miniatures_Gallery/606497446694908/20260424_105642.webp
   - ../Attachments/Miniatures_Gallery/606497446694908/20260424_105653.webp
 PUB_IMG_Icon: ../MetaData_Shop/resources/605568978774041/ccac2ff9885666495d8e80ac0ce048da_MD5.webp
-last_sync: 5/29/2026, 8:57:01 PM
+last_sync: 5/30/2026, 2:49:01 PM
 ---
 
 <div class="quartz-hidden">

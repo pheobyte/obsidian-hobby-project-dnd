@@ -1,11 +1,11 @@
 ---
 qty: 2
-name: REF_0017 FIG Earth_Elemental_1
-race: "-"
+name: Name=Earth Elemental Race=Elemental Class=-
+race: Elemental
 class: "-"
 tags:
-  - elemental
-  - earth
+  - Earth
+  - Elemental
 is_set: true
 is_nsfw: false
 sizes:
@@ -25,7 +25,7 @@ personal_gallery:
   - ../Attachments/Miniatures_Gallery/601103455829688/20260422_172014.webp
   - ../Attachments/Miniatures_Gallery/605694019339424/20260427_095710.webp
 PUB_IMG_Icon: ../MetaData_Shop/resources/601103455829688/e0aafa8181766185389a66041ff588bd_MD5.webp
-last_sync: 5/29/2026, 8:56:59 PM
+last_sync: 5/30/2026, 2:47:27 PM
 ---
 
 <div class="quartz-hidden">

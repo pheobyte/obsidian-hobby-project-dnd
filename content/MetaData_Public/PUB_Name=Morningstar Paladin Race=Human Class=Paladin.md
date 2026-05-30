@@ -20,10 +20,9 @@ other_details: []
 official_gallery:
   - ../MetaData_Shop/resources/601104554489913/128c1a2290ea68c4786263dc3dbbeed5_MD5.webp
 personal_gallery:
-  - ../Attachments/Miniatures_Gallery/601104554489913/20260522_141352.webp
-  - ../Attachments/Miniatures_Gallery/601104554489913/20260522_141435.webp
+  - ../Attachments/Miniatures_Gallery/601104554489913/20260530_112958.webp
 PUB_IMG_Icon: ../MetaData_Shop/resources/601104554489913/128c1a2290ea68c4786263dc3dbbeed5_MD5.webp
-last_sync: 5/29/2026, 8:56:30 PM
+last_sync: 5/30/2026, 2:48:20 PM
 ---
 
 <div class="quartz-hidden">

@@ -1,10 +1,12 @@
 ---
 qty: 1
-name: REF_0036 Diablo Treasure_Goblin_1
-race: "-"
+name: Name=Treasure Goblin Race=Goblin Class=-
+race: Goblin
 class: "-"
 tags:
-  - diablo
+  - Goblin
+  - Treasure
+  - Diablo
 is_set: false
 is_nsfw: false
 sizes:
@@ -22,7 +24,7 @@ official_gallery:
 personal_gallery:
   - ../Attachments/Miniatures_Gallery/605685093860227/20260422_162339.webp
 PUB_IMG_Icon: ../MetaData_Shop/resources/605685093860227/bf46a2409e0a11c164cb430ce82452e9_MD5.webp
-last_sync: 5/29/2026, 8:57:01 PM
+last_sync: 5/30/2026, 2:49:08 PM
 ---
 
 <div class="quartz-hidden">

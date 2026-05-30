@@ -19,9 +19,13 @@ other_details:
 official_gallery:
   - ../MetaData_Shop/resources/605976732249858/46539e76f38e0f8d1e00ca07c0ed3f58_MD5.webp
 personal_gallery:
-  - ../Attachments/Miniatures_Gallery/605976732249858/20260522_142116.webp
+  - ../Attachments/Miniatures_Gallery/605976732249858/20260530_112748.webp
+  - ../Attachments/Miniatures_Gallery/605976732249858/20260530_112907.webp
+  - ../Attachments/Miniatures_Gallery/605976732249858/20260530_113308.webp
+  - ../Attachments/Miniatures_Gallery/605976732249858/20260530_113227.webp
+  - ../Attachments/Miniatures_Gallery/605976732249858/20260530_113249.webp
 PUB_IMG_Icon: ../MetaData_Shop/resources/605976732249858/46539e76f38e0f8d1e00ca07c0ed3f58_MD5.webp
-last_sync: 5/29/2026, 8:56:37 PM
+last_sync: 5/30/2026, 2:48:40 PM
 ---
 
 <div class="quartz-hidden">

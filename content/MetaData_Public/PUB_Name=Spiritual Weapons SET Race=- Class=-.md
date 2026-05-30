@@ -9,16 +9,18 @@ tags:
   - SET
 is_set: true
 is_nsfw: false
-sizes: []
+sizes:
+  - 30 - 40 mm
 categories: []
 weapons: []
 other_details: []
 official_gallery:
+  - ../MetaData_Shop/resources/1775635545/5daf5da47106882003e9a77f5b96a79c_MD5.webp
   - ../MetaData_Shop/resources/606415087368516/0085ea3b8b3c95d9a14e890c199dfbf1_MD5.webp
 personal_gallery:
-  - ../Attachments/Miniatures_Gallery/606415087368516/20260515_123145.webp
-PUB_IMG_Icon: ../MetaData_Shop/resources/606415087368516/0085ea3b8b3c95d9a14e890c199dfbf1_MD5.webp
-last_sync: 5/29/2026, 8:56:43 PM
+  - ../Attachments/Miniatures_Gallery/606415087368516/20260530_113512.webp
+PUB_IMG_Icon: ../MetaData_Shop/resources/1775635545/5daf5da47106882003e9a77f5b96a79c_MD5.webp
+last_sync: 5/30/2026, 2:48:59 PM
 ---
 
 <div class="quartz-hidden">
