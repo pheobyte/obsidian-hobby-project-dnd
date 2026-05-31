@@ -303,3 +303,11 @@ window.addEventListener("resize", function () {
 function setFolderState(folderElement: HTMLElement, collapsed: boolean) {
   return collapsed ? folderElement.classList.remove("open") : folderElement.classList.add("open")
 }
+
+// Ensure the panel collapses on navigation
+document.addEventListener("nav", () => {
+  const explorer = document.querySelector(".explorer");
+  if (explorer) {
+    explorer.classList.add("collapsed");
+  }
+});

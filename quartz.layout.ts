@@ -27,7 +27,6 @@ export const defaultContentPageLayout: PageLayout = {
     }),
     Component.ArticleTitle(),
     Component.ContentMeta(),
-    // Component.TagList(),
     
     // Show technical details ONLY on individual notes, NOT index
     Component.ConditionalRender({
@@ -47,32 +46,10 @@ export const defaultContentPageLayout: PageLayout = {
   ],
   left: [
     Component.PageTitle(),
-    Component.MobileOnly(Component.Spacer()),
+    // 🛠️ UNLOCKED: Removed MobileOnly wrapper so the hamburger menu toggle loads on desktop
+    Component.Spacer(),
     Component.Flex({
       components: [
-        {
-          Component: Component.Search({
-            enableCheckboxes: true,
-            search: {
-              includeTags: true,
-              includeFrontmatter: true,
-              frontmatterKeys: [
-                "name", 
-                "race", 
-                "class", 
-                "tags", 
-                "categories", 
-                "weapons", 
-                "other_details"
-              ],
-              flexsearch: {
-                tokenize: "full", // Substring matching enabled
-                incremental: true,
-              },
-            },
-          }),
-          grow: true,
-        },
         { Component: Component.Darkmode() },
         { Component: Component.ReaderMode() },
       ],
@@ -80,9 +57,7 @@ export const defaultContentPageLayout: PageLayout = {
     Component.Explorer(),
   ],
   right: [
-    // Component.Graph(),
     Component.DesktopOnly(Component.TableOfContents()),
-    // Component.Backlinks(),
   ],
 }
 
@@ -91,32 +66,10 @@ export const defaultListPageLayout: PageLayout = {
   beforeBody: [Component.Breadcrumbs(), Component.ArticleTitle(), Component.ContentMeta()],
   left: [
     Component.PageTitle(),
-    Component.MobileOnly(Component.Spacer()),
+    // 🛠️ UNLOCKED: Removed MobileOnly wrapper from list pages too for global design consistency
+    Component.Spacer(),
     Component.Flex({
       components: [
-        {
-          Component: Component.Search({
-            enableCheckboxes: true,
-            search: {
-              includeTags: true,
-              includeFrontmatter: true,
-              frontmatterKeys: [
-                "name", 
-                "race", 
-                "class", 
-                "tags", 
-                "categories", 
-                "weapons", 
-                "other_details"
-              ],
-              flexsearch: {
-                tokenize: "full", // Substring matching enabled
-                incremental: true,
-              },
-            },
-          }),
-          grow: true,
-        },
         { Component: Component.Darkmode() },
       ],
     }),

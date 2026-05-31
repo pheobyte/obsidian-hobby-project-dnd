@@ -30,16 +30,29 @@ const CardGrid: QuartzComponent = ({ allFiles, displayClass, fileData }: QuartzC
         // 4. Use resolveRelative so the card click URLs never break on local or live links
         const cardLink = resolveRelative(fileData.slug!, file.slug!)
 
+        // 5. Fetch the quantity from frontmatter. 
+        // Checks 'QTY' first, then lowercase 'qty'. Defaults to 0 if missing.
+        const quantity = file.frontmatter?.QTY ?? file.frontmatter?.qty ?? 0
+
         return (
-          <a href={cardLink} className="card-item" key={file.slug}>
-            <div className="card-image-container">
-              <img src={imgSrc} alt={file.frontmatter?.title} />
-            </div>
-            <div className="card-caption">
-              <h3>{file.frontmatter?.title}</h3>
-            </div>
-          </a>
-        )
+  <a href={cardLink} className="card-item" key={file.slug}>
+    
+    {/* ⬛ Background element for the black corner gradient shade */}
+    <div className="card-corner-shade"></div>
+
+    {/* 🏷️ Solid sage green square floating on top */}
+    <div className="qty-badge">
+      {quantity}
+    </div>
+
+    <div className="card-image-container">
+      <img src={imgSrc} alt={file.frontmatter?.title} />
+    </div>
+    <div className="card-caption">
+      <h3>{file.frontmatter?.title}</h3>
+    </div>
+  </a>
+)
       })}
     </div>
   )
