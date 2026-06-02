@@ -1,0 +1,38 @@
+---
+qty: 1
+name: Name=Lucian Sunblade Knight Race=Human Class=Paladin
+race: Human
+class: Paladin
+tags:
+  - male
+  - Paladin
+  - Knight
+  - Lucian
+  - Sunblade
+is_set: false
+is_nsfw: false
+sizes:
+  - under 30 mm
+  - 30 - 40 mm
+categories:
+  - Humanoid
+weapons:
+  - Sword
+  - Book
+other_details: []
+official_gallery:
+  - ../MetaData_Shop/resources/1853628507/e6bb8dbb522dda75988156a8e7098078_MD5.webp
+  - ../MetaData_Shop/resources/605601543349103/0a2b301668e1b966fdbe8936bf07b5be_MD5.webp
+personal_gallery:
+  - ../Attachments/Miniatures_Gallery/605601543349103/20260526_150727.webp
+PUB_IMG_Icon: ../MetaData_Shop/resources/1853628507/e6bb8dbb522dda75988156a8e7098078_MD5.webp
+last_sync: 6/2/2026, 11:19:41 PM
+---
+
+<div class="quartz-hidden">
+
+# Public Reference Assets
+
+![[Public Reference Assets]]
+
+</div>

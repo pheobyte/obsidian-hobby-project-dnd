@@ -21,12 +21,13 @@ weapons:
   - Dagger
 other_details: []
 official_gallery:
+  - ../MetaData_Shop/resources/1701249786/8a29e7142495232d3028484819a62947_MD5.webp
   - ../MetaData_Shop/resources/601105785466706/444803ec6639ccbe1b21fd1004991f5c_MD5.webp
 personal_gallery:
   - ../Attachments/Miniatures_Gallery/601105785466706/20260422_165105.webp
   - ../Attachments/Miniatures_Gallery/601105785466706/20260422_165142.webp
-PUB_IMG_Icon: ../MetaData_Shop/resources/601105785466706/444803ec6639ccbe1b21fd1004991f5c_MD5.webp
-last_sync: 5/30/2026, 2:47:49 PM
+PUB_IMG_Icon: ../MetaData_Shop/resources/1701249786/8a29e7142495232d3028484819a62947_MD5.webp
+last_sync: 6/2/2026, 11:19:35 PM
 ---
 
 <div class="quartz-hidden">

@@ -16,12 +16,14 @@ weapons:
   - Axe
 other_details: []
 official_gallery:
+  - ../MetaData_Shop/resources/605511533596467/1b51c3c9094c42f9d19fa8f4bd1317ee_MD5.webp
   - ../MetaData_Shop/resources/605832263610442/93021a50464568c1fbed4c7ed7de09d2_MD5.webp
+  - ../MetaData_Shop/resources/605882511374310/f7a75f86db5e27be8cd510456099be82_MD5.webp
 personal_gallery:
   - ../Attachments/Miniatures_Gallery/605832263610442/20260424_105823.webp
   - ../Attachments/Miniatures_Gallery/605832263610442/20260424_105840.webp
-PUB_IMG_Icon: ../MetaData_Shop/resources/605832263610442/93021a50464568c1fbed4c7ed7de09d2_MD5.webp
-last_sync: 5/30/2026, 2:46:53 PM
+PUB_IMG_Icon: ../MetaData_Shop/resources/605511533596467/1b51c3c9094c42f9d19fa8f4bd1317ee_MD5.webp
+last_sync: 6/2/2026, 11:19:05 PM
 ---
 
 <div class="quartz-hidden">

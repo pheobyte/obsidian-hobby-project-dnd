@@ -23,6 +23,8 @@ other_details: []
 official_gallery:
   - ../MetaData_Shop/resources/1726496600/e285653581431f1bf56ad7bd9bef80a7_MD5.webp
   - ../MetaData_Shop/resources/1746970155/6382d1b72789cfeff28efd9b9eb5e793_MD5.webp
+  - ../MetaData_Shop/resources/1752620724/9a1b164e12d084d2a95dc04eafa5dc99_MD5.webp
+  - ../MetaData_Shop/resources/1759248623/a89f1bb7b484014120559cbeecc98f94_MD5.webp
   - ../MetaData_Shop/resources/1821650477/2521911f989fb77b8067e64c55fc9cf1_MD5.webp
   - ../MetaData_Shop/resources/601099655048950/405a98eb80d8726fb5ac535609daaf4a_MD5.webp
   - ../MetaData_Shop/resources/601105541724418/84ae374f3aca638445d5d69d1b37393d_MD5.webp
@@ -36,7 +38,7 @@ personal_gallery:
   - ../Attachments/Miniatures_Gallery/606572071771720/20260429_110227.webp
   - ../Attachments/Miniatures_Gallery/606572071771720/20260429_110251.webp
 PUB_IMG_Icon: ../MetaData_Shop/resources/1726496600/e285653581431f1bf56ad7bd9bef80a7_MD5.webp
-last_sync: 5/30/2026, 2:47:30 PM
+last_sync: 6/2/2026, 11:19:30 PM
 ---
 
 <div class="quartz-hidden">

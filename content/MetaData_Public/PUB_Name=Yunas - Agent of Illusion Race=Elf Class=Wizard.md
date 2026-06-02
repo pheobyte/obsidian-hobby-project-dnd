@@ -24,14 +24,15 @@ weapons:
   - Other
 other_details: []
 official_gallery:
+  - ../MetaData_Shop/resources/1347424852/f5b439c886552636921a22dfbb6cda58_MD5.webp
   - ../MetaData_Shop/resources/1644151921/f9640560c6418f8e9ed778380b0b1144_MD5.webp
   - ../MetaData_Shop/resources/1742232931/a96dfa32b361046cbaa213d9e7c88ec1_MD5.webp
   - ../MetaData_Shop/resources/606206160645564/1c06cb02c8be8f2eeba51119b2dd6f3c_MD5.webp
   - ../MetaData_Shop/resources/606254848156113/fc8cafa053f09536a58199651aa8177d_MD5.webp
 personal_gallery:
   - ../Attachments/Miniatures_Gallery/606254848156113/20260526_151229.webp
-PUB_IMG_Icon: ../MetaData_Shop/resources/1644151921/f9640560c6418f8e9ed778380b0b1144_MD5.webp
-last_sync: 5/30/2026, 2:49:40 PM
+PUB_IMG_Icon: ../MetaData_Shop/resources/1347424852/f5b439c886552636921a22dfbb6cda58_MD5.webp
+last_sync: 6/2/2026, 11:20:14 PM
 ---
 
 <div class="quartz-hidden">
