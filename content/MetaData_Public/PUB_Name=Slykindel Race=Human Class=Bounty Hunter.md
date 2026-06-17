@@ -11,6 +11,7 @@ is_set: false
 is_nsfw: false
 sizes:
   - 40 - 50 mm
+  - 30 - 40 mm
 categories:
   - Humanoid
 weapons:
@@ -20,12 +21,13 @@ other_details: []
 official_gallery:
   - ../MetaData_Shop/resources/601105795291624/be1c225851aae04a15dbdf68752e0632_MD5.webp
   - ../MetaData_Shop/resources/605546967064221/992194a541199c2c1ad32875787a2111_MD5.webp
+  - ../MetaData_Shop/resources/606318937111684/1a0497307d9366ccd7816dcf332a6f32_MD5.webp
   - ../MetaData_Shop/resources/606512797824756/eca8c5304516b6c8584baff9d9e3a6c2_MD5.webp
 personal_gallery:
   - ../Attachments/Miniatures_Gallery/601105795291624/20260429_113530.webp
   - ../Attachments/Miniatures_Gallery/601105795291624/20260429_113558.webp
 PUB_IMG_Icon: ../MetaData_Shop/resources/601105795291624/be1c225851aae04a15dbdf68752e0632_MD5.webp
-last_sync: 6/2/2026, 11:19:56 PM
+last_sync: 6/17/2026, 4:58:35 PM
 ---
 
 <div class="quartz-hidden">

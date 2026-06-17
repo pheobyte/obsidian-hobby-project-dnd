@@ -1,5 +1,5 @@
 ---
-qty: 1
+qty: 2
 name: Name=Priestess Race=Human Class=Priest
 race: Human
 class: Priest
@@ -23,8 +23,10 @@ official_gallery:
   - ../MetaData_Shop/resources/601099773803076/b71441785bac01d6328c6669c1840dd6_MD5.webp
 personal_gallery:
   - ../Attachments/Miniatures_Gallery/601099773803076/20260325_140952.webp
+  - ../Attachments/Miniatures_Gallery/601099773803076/20260608_100111.webp
+  - ../Attachments/Miniatures_Gallery/601099773803076/20260608_100147.webp
 PUB_IMG_Icon: ../MetaData_Shop/resources/4455988891/a17edeeccf46942de93e9d097dde532f_MD5.webp
-last_sync: 6/2/2026, 11:19:52 PM
+last_sync: 6/17/2026, 4:58:26 PM
 ---
 
 <div class="quartz-hidden">

@@ -1,5 +1,5 @@
 ---
-qty: 1
+qty: 2
 name: Name=Fjorn Race=Human Class=Hexblade Warlock
 race: Human
 class: Hexblade Warlock
@@ -26,11 +26,14 @@ official_gallery:
   - ../MetaData_Shop/resources/601099879851195/f012cc0f043e1429cf5b44434d951261_MD5.webp
   - ../MetaData_Shop/resources/601105824515811/0b128c3c956a66dda52dc9ca833a83b4_MD5.webp
   - ../MetaData_Shop/resources/605538461015319/74172c3f772e0cd8d20045881312e37e_MD5.webp
+  - ../MetaData_Shop/resources/605863989368053/73eea1506bc96625827128c13aeecadb_MD5.webp
   - ../MetaData_Shop/resources/606407252396384/894c5ef2df9c03bdccf830135d91fa2d_MD5.webp
 personal_gallery:
   - ../Attachments/Miniatures_Gallery/601099631706167/20260526_152316.webp
+  - ../Attachments/Miniatures_Gallery/605863989368053/20260617_125827.webp
+  - ../Attachments/Miniatures_Gallery/605863989368053/20260617_125841.webp
 PUB_IMG_Icon: ../MetaData_Shop/resources/1757070029/2ab93658820f04ff71af4a0e0c06d3be_MD5.webp
-last_sync: 6/2/2026, 11:19:31 PM
+last_sync: 6/17/2026, 4:58:02 PM
 ---
 
 <div class="quartz-hidden">

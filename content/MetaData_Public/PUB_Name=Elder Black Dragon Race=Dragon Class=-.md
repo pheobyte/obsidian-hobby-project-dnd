@@ -20,10 +20,10 @@ other_details:
 official_gallery:
   - ../MetaData_Shop/resources/601099607995626/d4831604ab6ee2b9ab16e54ceaed73fa_MD5.webp
 personal_gallery:
-  - ../Attachments/Miniatures_Gallery/601099607995626/20260528_120432.webp
-  - ../Attachments/Miniatures_Gallery/601099607995626/20260528_120503.webp
+  - ../Attachments/Miniatures_Gallery/601099607995626/20260617_125330.webp
+  - ../Attachments/Miniatures_Gallery/601099607995626/20260617_125357.webp
 PUB_IMG_Icon: ../MetaData_Shop/resources/601099607995626/d4831604ab6ee2b9ab16e54ceaed73fa_MD5.webp
-last_sync: 6/2/2026, 11:19:28 PM
+last_sync: 6/17/2026, 4:57:57 PM
 ---
 
 <div class="quartz-hidden">

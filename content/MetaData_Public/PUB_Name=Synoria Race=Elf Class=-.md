@@ -1,5 +1,5 @@
 ---
-qty: 2
+qty: 3
 name: Name=Synoria Race=Elf Class=-
 race: Elf
 class: Druid
@@ -36,8 +36,10 @@ official_gallery:
 personal_gallery:
   - ../Attachments/Miniatures_Gallery/601101921247556/20260402_104309.webp
   - ../Attachments/Miniatures_Gallery/601101921247556/20260402_104336.webp
+  - ../Attachments/Miniatures_Gallery/606144101721662/20260605_122202.webp
+  - ../Attachments/Miniatures_Gallery/606144101721662/20260605_122213.webp
 PUB_IMG_Icon: ../MetaData_Shop/resources/4299744253/97691b23e842e598ffffebfad2742557_MD5.webp
-last_sync: 6/2/2026, 11:20:00 PM
+last_sync: 6/17/2026, 4:58:40 PM
 ---
 
 <div class="quartz-hidden">

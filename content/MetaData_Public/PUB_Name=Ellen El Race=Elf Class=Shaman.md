@@ -1,5 +1,5 @@
 ---
-qty: 1
+qty: 2
 name: Name=Ellen El Race=Elf Class=Shaman
 race: Elf
 class: Shaman
@@ -26,8 +26,10 @@ official_gallery:
   - ../MetaData_Shop/resources/605641942902504/a218f4c1480a484d14105a943de741df_MD5.webp
 personal_gallery:
   - ../Attachments/Miniatures_Gallery/605641942902504/20260505_112446.webp
+  - ../Attachments/Miniatures_Gallery/605641942902504/20260617_125755.webp
+  - ../Attachments/Miniatures_Gallery/605641942902504/20260617_125809.webp
 PUB_IMG_Icon: ../MetaData_Shop/resources/4317560534/82273f2d4b6584be8852c0b4e0d85357_MD5.webp
-last_sync: 6/2/2026, 11:19:29 PM
+last_sync: 6/17/2026, 4:57:59 PM
 ---
 
 <div class="quartz-hidden">
