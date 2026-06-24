@@ -19,11 +19,12 @@ other_details:
   - has_wings
 official_gallery:
   - ../MetaData_Shop/resources/601099607995626/d4831604ab6ee2b9ab16e54ceaed73fa_MD5.webp
+  - ../MetaData_Shop/resources/606521253541855/c91620377505ff15a5e5a5f7d28f0504_MD5.webp
 personal_gallery:
   - ../Attachments/Miniatures_Gallery/601099607995626/20260617_125330.webp
   - ../Attachments/Miniatures_Gallery/601099607995626/20260617_125357.webp
 PUB_IMG_Icon: ../MetaData_Shop/resources/601099607995626/d4831604ab6ee2b9ab16e54ceaed73fa_MD5.webp
-last_sync: 6/17/2026, 4:57:57 PM
+last_sync: 6/25/2026, 1:04:15 AM
 ---
 
 <div class="quartz-hidden">

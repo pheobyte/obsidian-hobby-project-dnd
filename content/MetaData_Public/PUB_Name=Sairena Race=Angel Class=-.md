@@ -1,12 +1,13 @@
 ---
 qty: 1
-name: Name=Serena Race=Angel Class=-
+name: Name=Sairena Race=Angel Class=-
 race: Angel
 class: "-"
 tags:
-  - Serena
   - Angel
   - Archer
+  - Serena
+  - Sairena
 is_set: false
 is_nsfw: false
 sizes:
@@ -18,12 +19,13 @@ weapons:
 other_details:
   - has_wings
 official_gallery:
+  - ../MetaData_Shop/resources/1740645825/d6b53022b104734817d0c151abf42540_MD5.webp
   - ../MetaData_Shop/resources/605641590546127/2d976a2668b61b09224cb9264f962701_MD5.webp
 personal_gallery:
   - ../Attachments/Miniatures_Gallery/605641590546127/20260611_112944.webp
   - ../Attachments/Miniatures_Gallery/605641590546127/20260611_113006.webp
-PUB_IMG_Icon: ../MetaData_Shop/resources/605641590546127/2d976a2668b61b09224cb9264f962701_MD5.webp
-last_sync: 6/17/2026, 4:58:32 PM
+PUB_IMG_Icon: ../MetaData_Shop/resources/1740645825/d6b53022b104734817d0c151abf42540_MD5.webp
+last_sync: 6/25/2026, 1:05:04 AM
 ---
 
 <div class="quartz-hidden">

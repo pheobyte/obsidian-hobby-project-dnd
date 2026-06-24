@@ -17,11 +17,12 @@ weapons:
   - Spear
 other_details: []
 official_gallery:
+  - ../MetaData_Shop/resources/606207586740282/a55b186cc7957aae671a82a18131ce2e_MD5.webp
   - ../MetaData_Shop/resources/606307193057798/e4283c24c51565e128cb63df0ccc63bc_MD5.webp
 personal_gallery:
   - ../Attachments/Miniatures_Gallery/606307193057798/20260528_111653.webp
-PUB_IMG_Icon: ../MetaData_Shop/resources/606307193057798/e4283c24c51565e128cb63df0ccc63bc_MD5.webp
-last_sync: 6/17/2026, 4:58:36 PM
+PUB_IMG_Icon: ../MetaData_Shop/resources/606207586740282/a55b186cc7957aae671a82a18131ce2e_MD5.webp
+last_sync: 6/25/2026, 1:02:53 AM
 ---
 
 <div class="quartz-hidden">
