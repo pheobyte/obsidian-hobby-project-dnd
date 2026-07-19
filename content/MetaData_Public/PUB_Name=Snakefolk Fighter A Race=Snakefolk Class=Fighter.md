@@ -1,5 +1,5 @@
 ---
-qty: 2
+qty: 5
 name: Name=Snakefolk Fighter A Race=Snakefolk Class=Fighter
 race: Snakefolk
 class: Fighter
@@ -21,8 +21,11 @@ official_gallery:
 personal_gallery:
   - ../Attachments/Miniatures_Gallery/1164382097/20260625_121033.webp
   - ../Attachments/Miniatures_Gallery/1164382097/20260625_121153.webp
+  - ../Attachments/Miniatures_Gallery/1164382097/20260717_113806.webp
+  - ../Attachments/Miniatures_Gallery/1164382097/20260717_113720.webp
+  - ../Attachments/Miniatures_Gallery/1164382097/20260717_113739.webp
 PUB_IMG_Icon: ../MetaData_Shop/resources/1164382097/cf99bb6dc24a4e67f4a2741b2a9d58ee_MD5.webp
-last_sync: 6/26/2026, 9:49:27 AM
+last_sync: 7/19/2026, 6:16:50 PM
 ---
 
 <div class="quartz-hidden">

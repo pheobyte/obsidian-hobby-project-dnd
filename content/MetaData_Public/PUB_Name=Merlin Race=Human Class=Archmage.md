@@ -18,10 +18,11 @@ weapons:
 other_details: []
 official_gallery:
   - ../MetaData_Shop/resources/601101253904153/3b26335b259c1a998de4a52028ae56bd_MD5.webp
+  - ../MetaData_Shop/resources/606853828299643/d1979a411917af440922dd6975d4e299_MD5.webp
 personal_gallery:
   - ../Attachments/Miniatures_Gallery/601101253904153/20260505_112329.webp
 PUB_IMG_Icon: ../MetaData_Shop/resources/601101253904153/3b26335b259c1a998de4a52028ae56bd_MD5.webp
-last_sync: 6/26/2026, 9:48:45 AM
+last_sync: 7/19/2026, 6:26:12 PM
 ---
 
 <div class="quartz-hidden">
